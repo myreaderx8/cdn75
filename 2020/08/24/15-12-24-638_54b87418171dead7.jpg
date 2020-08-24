@@ -1,0 +1,3255 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta content=text/html; charset="UTF-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+	<title>飲食男女 Eat and Travel Weekly</title>
+	<meta name="keywords" content="飲食男女,Eat and Travel Weekly,食譜,放題,自助餐,日本菜,燒肉,打邊爐,火鍋,煲仔飯,車仔麵,cafe,甜品,素食,拉麵,廚房,澳門,旅遊,冷知識,米芝蓮" />
+	<meta name="description" content="《飲食男女》提供最快最新的飲食推介及食評，文字影片兼備，資訊一目了然！" />
+	<!-- meta -->
+	<script src="https://nd-etw-webstatic.nxtdig.com.hk/js/modernizr-2.8.3.min.js"></script>
+	<meta name="google-site-verification" content="92qPGhNPbOR5SAjj2V22PJLay55kdc7X-Ijo7reWFEY" />
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Language" content="zh-hk" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta property="fb:admins" content="100001885710993"/>
+		<meta property="fb:app_id" content="1017250485043498"/>
+	<meta name="apple-itunes-app" content="app-id=417373307" />
+	<meta name="google-play-app" content="app-id=com.appledaily.etw" />
+	<meta name="distribution" content="global" />
+	<meta name="rating" content="general" />
+	<meta name="robots" content="index,follow,noarchive" />
+	<meta name="revisit-after" content="1 days" />
+	<link rel="icon" href="https://nd-etw-webstatic.nxtdig.com.hk/images/favicon.ico">
+	<link rel="canonical" href="https://etw.nextdigital.com.hk/"/>	
+	<meta name="title" content="飲食男女 Eat and Travel Weekly">
+	<meta property="og:title" content="飲食男女 Eat and Travel Weekly"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:description" content="《飲食男女》提供最快最新的飲食推介及食評，文字影片兼備，資訊一目了然！"/>
+	<meta property="og:url" content="https://etw.nextdigital.com.hk/"/>
+	<meta property="og:image" content="https://nd-etw-webstatic.nxtdig.com.hk/images/eat_and_travel_weekly.png"/>
+	<meta property="og:image:width" content="1200"/>
+	<meta property="og:image:height" content="630"/>
+	<meta property="og:image:type" content="image/png"/>
+	<meta property="og:site_name" content="飲食男女"/>
+				<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "NewsArticle",
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://etw.nextdigital.com.hk/"
+		},
+		"headline": "飲食男女 Eat and Travel Weekly",
+		"image": {
+				"@type": "ImageObject",
+				"url": "https://nd-etw-webstatic.nxtdig.com.hk/images/ETW_logo_1024.png",
+				"width": 1024,
+				"height": 1024		
+		},
+		"datePublished" : "2020-08-24T23:12:21+0800",
+		"dateModified"	: "2020-08-24T23:12:21+0800",
+		"author": {
+			"@type": "Organization",
+			"name": "飲食男女"
+		},
+		"publisher": {
+			"@type": "Organization",
+			"name": "飲食男女",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://nd-etw-webstatic.nxtdig.com.hk/images/ETW_applogo_600x60.jpg",
+				"width": 600,
+				"height": 60
+			}
+		},
+		"description": "《飲食男女》提供最快最新的飲食推介及食評，文字影片兼備，資訊一目了然！"
+	}
+	</script>
+		<!-- css -->
+    <link href="https://nd-etw-webstatic.nxtdig.com.hk/css/style.css?20190130" rel="stylesheet" type="text/css" />
+	<link href="https://nd-etw-webstatic.nxtdig.com.hk/css/jquery.smartbanner.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="https://nd-etw-webstatic.nxtdig.com.hk/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<!--Plugin CSS file with desired skin-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
+
+	<!-- js -->
+	<script src="https://nd-etw-webstatic.nxtdig.com.hk/js/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <!--  jQuery UI  -->
+    <script src="https://nd-etw-webstatic.nxtdig.com.hk/js/jquery-ui.min.js" type="text/javascript"></script>
+	<script src="https://nd-etw-webstatic.nxtdig.com.hk/js/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+	
+    <!--Plugin JavaScript file-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/js/ion.rangeSlider.min.js"></script>
+	
+	<!--idangerous scroll-->
+	<link rel="stylesheet" href="https://nd-etw-webstatic.nxtdig.com.hk/js/idangerous/swiper.min.css" />
+
+	<!-- Avanto -->
+  	<script type="text/javascript" src="https://staticlayout.appledaily.hk/uvp2/js/anvp.common.lib-v1.0.4.min.js?v=20180605"></script>
+  
+	<!-- 1x1 -->
+	<script type="text/javascript" src="https://imp.nextmedia.com/js/nxm_tr_v19s.js"></script>
+
+	<!-- OMO -->
+	<script type="text/javascript" src="https://static.omoplanet.com/WebSDK/v3.3.1/omo-sdk-3.3.1.min.js"></script>
+
+	<!-- Replacelink -->
+	<script type="text/javascript" language="javascript" src="https://nd-etw-webstatic.nxtdig.com.hk/js/replaceLink.js"></script>
+
+	<!-- DFP -->
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+	<!-- paginator -->
+	<script type="text/javascript" language="javascript" src="https://nd-etw-webstatic.nxtdig.com.hk/js/bootstrap-paginator.js"></script>
+	<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	</script>
+	<script>
+	// handle ads according to subscription (HETW-502)
+	var pendingAdsElmIds = [];
+	function displayAdsAfterCheckBlocking(elmId) {
+		pendingAdsElmIds.push(elmId);
+	}
+	$(function(){
+		function preloadMobileAds(blocked){
+			if (blocked) {
+				return;
+			}
+			googletag.cmd.push(function() {
+						googletag.defineSlot('/7350/ETW_mobilesite/index/FixedBanner1', [[320, 50], [300, 250]], 'div-FixedBanner1').addService(googletag.pubads());
+        	        	        				        	        		googletag.defineSlot('/7350/ETW_mobilesite/index/inRead', [1, 1], 'div-inRead').addService(googletag.pubads());
+        											googletag.pubads().enableSingleRequest();
+       	 		googletag.pubads().collapseEmptyDivs();
+         		googletag.enableServices();
+				//googletag.pubads().refresh();
+														googletag.display('div-FixedBanner1');
+																			googletag.display('div-inRead');
+												 });
+		}
+		function preloadDesktopAds(blocked){
+			googletag.cmd.push(function() {
+							      googletag.defineSlot('/7350/ETW_web/index/HeadBanner', [[970, 90], [970, 250], [970, 160], [728, 90]], 'div-HeadBanner').addService(googletag.pubads());
+        						        		  googletag.defineSlot('/7350/ETW_web/index/LREC1', [[300, 250], [300, 430], [300, 600]], 'div-LREC1').addService(googletag.pubads());
+        						         			googletag.defineSlot('/7350/ETW_web/index/Skyscraper1', [[120, 600], [160, 600]], 'div-Skyscraper1').addService(googletag.pubads());
+        						        			googletag.defineSlot('/7350/ETW_web/index/Skyscraper2', [[120, 600], [160, 600]], 'div-Skyscraper2').addService(googletag.pubads());
+       							googletag.pubads().enableSingleRequest();
+       	 		googletag.pubads().collapseEmptyDivs();
+         		googletag.enableServices();
+									googletag.display('div-HeadBanner');
+									googletag.display('div-LREC1');
+									googletag.display('div-Skyscraper1');
+									googletag.display('div-Skyscraper2');
+									googletag.display('div-inRead');
+							 });
+			//googletag.pubads().refresh();
+		}
+		var isMobileLoaded = false;
+		var isDesktopLoaded = false;
+		var isBlocked = false;
+		var reloadWidth = 970;
+
+		function initAds() {
+			var currentWidth = $( window ).width();
+			if (currentWidth < reloadWidth ){
+				preloadMobileAds(isBlocked);
+				isMobileLoaded = true;
+			}else{
+				preloadDesktopAds(isBlocked);
+				isDesktopLoaded = true;
+			}
+
+			$( window ).resize(function() {
+				if( $( window ).width() < reloadWidth){
+					if(!isMobileLoaded){
+						preloadMobileAds(isBlocked);
+						isMobileLoaded = true;
+					}
+				}else{
+					if(!isDesktopLoaded){
+						preloadDesktopAds(isBlocked);
+						isDesktopLoaded = true;
+					}
+				}
+			});
+
+			if (!isBlocked) {
+				pendingAdsElmIds.forEach(function(elmId) {
+					googletag.cmd.push(function() { googletag.display(elmId); });
+				});
+			}
+		}
+
+		if (typeof isBlockedContentPromise === "function") {
+			isBlockedContentPromise()
+				.then(function(blocked) {
+					isBlocked = blocked;
+					initAds();
+				})
+				.catch(function(err) {
+					initAds();
+				});
+		} else {
+			initAds();
+		}
+	});
+	</script>
+		<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-42656338-35', 'auto');
+	ga('require', 'linkid', 'linkid.js');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+	</script>
+	
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK4VZFW');</script>
+<!-- End Google Tag Manager -->
+	<!-- End Google Tag Manager -->
+	
+<!-- GDPR -->
+<script id="gdpr-message" src="https://policy.appledaily.com/gdpr.min.js?cpreg=HK&platform=WEB&v=20190130"></script>
+<!-- End GDPR -->
+</head>
+
+<body class="page-home menu-close">
+
+			
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_HK/sdk.js#xfbml=1&version=v2.8&appId=1017250485043498";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- 1x1 -->
+<script type="text/javascript">
+ var crm_valid = getCookie("CrmValid");
+ 
+ if( (typeof(crm_valid)=="undefined") || crm_valid===null || crm_valid.length==0 || (new Date().getTime() > crm_valid) ) {
+  var nxtu = getCookie("nxtu");
+  if( typeof(nxtu)!="undefined" || nxtu!=null || nxtu.length!=0 ) {
+
+   var crm_host = 'https://useg.nextdigital.com.hk/';
+   var k = String2Hex('ADAILY,'+new Date().getTime());
+   crm_host += '?nxtu=' + nxtu + '&k=' + k ;
+   var xhr = new XMLHttpRequest();
+   xhr.open("GET", crm_host, true);
+   xhr.send();
+   xhr.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     var response = JSON.parse(this.responseText);
+     if ('error' in response) {
+           }
+     else {
+            setCookie('CrmA', response.data.A, 1);
+      setCookie('CrmGG', response.data.GG, 1);
+      setCookie('CrmSEG', response.data.SEG, 1);
+      setCookie('CrmValid', (new Date().getTime() + 86400000), 1);
+      //setCookie('CrmValid', (new Date().getTime() + (60 * 1000) ), 1); //Test with 1 min expire
+     }
+    }
+    else {
+         }
+   };
+  }
+ } else {
+   }
+
+ function String2Hex(tmp) {
+     var str = '';
+     for(var i = 0; i < tmp.length; i++) {
+         str += tmp[i].charCodeAt(0).toString(16);
+     }
+     return str;
+ }
+
+ function setCookie(cname, cvalue, exdays) {
+     var d = new Date();
+     d.setTime(d.getTime() + (exdays*24*60*60*1000));
+     //d.setTime(d.getTime() + (60 * 1000)); //Test with 1 min expire
+     var expires = "expires="+d.toUTCString();
+     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain="+"etw.nextdigital.com.hk";
+ }
+
+ // handle subscription (HETW-502)
+ function setUreadCookie(cname, cvalue) {
+    var timestamp = new Date();
+    timestamp.setHours(23);
+    timestamp.setMinutes(59);
+    timestamp.setSeconds(59);
+    var expires = "expires="+timestamp.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain="+"etw.nextdigital.com.hk";
+}
+
+ function getCookie(cname) {
+     var name = cname + "=";
+     var ca = document.cookie.split(';');
+     for(var i = 0; i < ca.length; i++) {
+         var c = ca[i];
+         while (c.charAt(0) == ' ') {
+             c = c.substring(1);
+         }
+         if (c.indexOf(name) == 0) {
+                       return c.substring(name.length, c.length);
+         }
+     }
+     return "";
+ }
+
+	$(document).ready(function() {
+		var crm_a = getCookie("CrmA");
+ 		var crm_gg = getCookie("CrmGG");
+ 		if(crm_gg=='99'){
+ 			crm_gg = '';
+ 		}
+ 		if(crm_gg=='1'){
+ 			crm_gg = 'M';
+ 		}
+ 		if(crm_gg=='2'){
+ 			crm_gg = 'F';
+ 		}
+ 		var crm_seg = getCookie("CrmSEG");
+		var nxmObj = {"REGION":"HK","PROD":"ETW","SITE":"etw.nextdigital.com.hk","PLATFORM":"WEB","SECTION":"HOME","MEDIA":"","CONTENT":"HOME","ISSUEID":"","TITLE":"","CID":"","NEWS":"COMBINE","EDM":"","ACTION":"","SUBSECT":"","SUBSUBSECT":"","MENU":"\u4e3b\u9801","AUTH":"","SRC":"ETW","L":"TC","CH":"ETW","CAT":"FOOD","KY":"","REF":"","OMO_ACCID":"","OMO_PID":""};
+		nxmObj.ACTION = 'PAGEVIEW';
+		nxmObj.MEDIA = 'TEXT';
+
+		nxmObj.G = crm_gg;
+		nxmObj.A = crm_a;
+		nxmObj.SEG = crm_seg;
+		nxmObj.FBID = '';
+		
+		//if (!nxmObj.edm) nxmObj.edm = __edm;
+		//nxmObj.L = lang || undefined;
+		for (var nxmProp in nxmObj) {
+	  		nxmTrack.nxmAddSeg(nxmProp.toUpperCase() + '=' + encodeURIComponent(nxmObj[nxmProp]));
+	  	}
+        nxmTrack.nxmSendPageDepth(0, new Date().getTime());
+	});
+
+// handle utm parameter (HETW-508/509)
+function ureadPrepareParams(){
+	var resu = {
+		utm_source: 'etw_web', 
+		utm_medium: 'internal', 
+		utm_campaign: 'etw_profile', 
+		utm_term: '', 
+		utm_content: ''
+	};
+
+	var urlparams = window.location.search.substring(1);
+	urlparams = urlparams.split('&');
+	if(urlparams.length==1){
+		return resu;
+	}
+	for (var i = 0; i < urlparams.length; i++)
+	{
+		var sParameterName = urlparams[i].split('=');
+		switch(sParameterName[0]){
+			case 'utm_source':
+				resu['utm_source'] = sParameterName[1];
+			break;
+			case 'itm_source':
+				resu['utm_source'] = sParameterName[1];
+			break;
+
+			case 'utm_medium':
+				resu['utm_medium'] = sParameterName[1];
+			break;
+			case 'itm_medium':
+				resu['utm_medium'] = sParameterName[1];
+			break;
+
+			case 'utm_campaign':
+				resu['utm_campaign'] = sParameterName[1];
+			break;
+			case 'itm_campaign':
+				resu['utm_campaign'] = sParameterName[1];
+			break;
+
+			case 'utm_content':
+				resu['utm_content'] = sParameterName[1];
+			break;
+			case 'itm_content':
+				resu['utm_content'] = sParameterName[1];
+			break;
+
+			case 'utm_term':
+				resu['utm_term'] = sParameterName[1];
+			break;
+			case 'itm_term':
+				resu['utm_term'] = sParameterName[1];
+			break;
+		};
+	}
+	if(resu['utm_source'] == ''){
+		return resu;
+	}
+	return resu;
+}
+</script>
+
+<div id="nxm_iframeDiv" style="display:none"></div>
+<div id="nxm_vtrk_iframeDiv" style="display:none"></div>
+
+
+<!-- Header view -->
+<style>.search-box-lv1 li.disabled{color:#ccc;}</style>
+<header>
+	<div class="etw-logo"><a href="//etw.nextdigital.com.hk/"><img src="https://nd-etw-webstatic.nxtdig.com.hk/images/etw_logo.png" alt="飲食男女 EAT AND TRAVEL WEEKLY"></a></div>
+    <div class="user-panel">
+        <label class="img-box myProfile" id="my_image"></label>
+        <a href="#" id="logout-button">登出</a>
+    </div>
+    <div class="login-panel">
+        <label class="img-box"><img src="https://nd-etw-webstatic.nxtdig.com.hk/images/default_profile_pic.png" id="image-login-button" alt="profile"></label>
+        <a href="#" id="login-button">註冊<span>/</span>登入</a>
+    </div>
+    
+	<div class="search-container">
+		<!--<div class="search-select">
+		<select id="searchOption" name="searchOption">
+			<option value="restaurant" >食店</option>
+			<option value="article" >內容</option>
+		</select>
+		</div>-->
+		<div class="search-box">
+			<input type="text" name="keyword" value="" id="inputKeyword" placeholder="食店及文章搜尋"  />
+			<button id="searchBtn"></button>
+			<div class="search-button"></div>
+		</div>
+		<div class="advan-search"></div>
+
+		<div class="advan-search-box">
+			<div class="close-btn">&times;</div>
+			<div class="title"><h4>進階搜尋</h4></div>
+            <div class="choose-group"></div>
+			<form id="advSearchForm">
+                <div class="modealshow"  style="text-align: center; width:84%; line-height: 52px; float:right">
+                    <span class="shareerror" style="border:1px solid #eeeeee; padding:10px 50px;position: relative; z-index: 999999; background-color: #fff; display: none;color:#e83433">最多可以選擇3項</span>
+                </div>
+
+                <!-- lv1 -->
+			<ul class="search-box-lv1">
+				<li class="current district">地點<div class="dropdown"></div></li>
+				<ul class="search-box-lv2 district">
+										                                    <li class="subtitle">香港<div class="dropdown"></li>
+                                <ul class="search-box-lv3">
+                                                                                                                                                <li><label><input type="checkbox" name="selected_district" value="香港" class="areaOption"  />
+香港(所有)</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="中環"  />
+中環</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="銅鑼灣"  />
+銅鑼灣</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="灣仔"  />
+灣仔</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="西環"  />
+西環</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="天后"  />
+天后</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="筲箕灣"  />
+筲箕灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="柴灣"  />
+柴灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="香港仔"  />
+香港仔</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="鰂魚涌"  />
+鰂魚涌</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="半山"  />
+半山</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="西灣河"  />
+西灣河</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大坑"  />
+大坑</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="石澳"  />
+石澳</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="淺水灣"  />
+淺水灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="杏花邨"  />
+杏花邨</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="深水灣"  />
+深水灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="數碼港"  />
+數碼港</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="黃竹坑"  />
+黃竹坑</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="北角"  />
+北角</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="上環"  />
+上環</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="跑馬地"  />
+跑馬地</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="鴨脷洲"  />
+鴨脷洲</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="西營盤"  />
+西營盤</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="山頂"  />
+山頂</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="太古"  />
+太古</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="赤柱"  />
+赤柱</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="金鐘"  />
+金鐘</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="薄扶林"  />
+薄扶林</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="炮台山"  />
+炮台山</label></li>
+                                                                                                    </ul>
+                                <div class="scrollbar-cover"></div>
+					        					                                    <li class="subtitle">九龍<div class="dropdown"></li>
+                                <ul class="search-box-lv3">
+                                                                                                                                                <li><label><input type="checkbox" name="selected_district" value="九龍" class="areaOption"  />
+九龍(所有)</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="九龍城"  />
+九龍城</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="旺角"  />
+旺角</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="尖沙咀"  />
+尖沙咀</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="深水埗"  />
+深水埗</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="觀塘"  />
+觀塘</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="佐敦"  />
+佐敦</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="樂富"  />
+樂富</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="慈雲山"  />
+慈雲山</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="新蒲崗"  />
+新蒲崗</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="鑽石山"  />
+鑽石山</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="九龍塘"  />
+九龍塘</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="何文田"  />
+何文田</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="九龍灣"  />
+九龍灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="美孚"  />
+美孚</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="長沙灣"  />
+長沙灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="藍田"  />
+藍田</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="牛頭角"  />
+牛頭角</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="太子"  />
+太子</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="土瓜灣"  />
+土瓜灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="油麻地"  />
+油麻地</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="彩虹"  />
+彩虹</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="荔枝角"  />
+荔枝角</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="紅磡"  />
+紅磡</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="石硤尾"  />
+石硤尾</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="黃大仙"  />
+黃大仙</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="油塘"  />
+油塘</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大角咀"  />
+大角咀</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="鯉魚門"  />
+鯉魚門</label></li>
+                                                                                                    </ul>
+                                <div class="scrollbar-cover"></div>
+					        					                                    <li class="subtitle">新界<div class="dropdown"></li>
+                                <ul class="search-box-lv3">
+                                                                                                                                                <li><label><input type="checkbox" name="selected_district" value="新界" class="areaOption"  />
+新界(所有)</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="荃灣"  />
+荃灣</label></li>
+                                                                                                                                                                                    <li style="color:#e94c27"><label><input type="checkbox" name="selected_district" value="元朗"  />
+元朗</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="粉嶺"  />
+粉嶺</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="馬灣"  />
+馬灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="葵芳"  />
+葵芳</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="葵涌"  />
+葵涌</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="羅湖"  />
+羅湖</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="將軍澳"  />
+將軍澳</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大埔"  />
+大埔</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="流浮山"  />
+流浮山</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="屯門"  />
+屯門</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="沙田"  />
+沙田</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="落馬洲"  />
+落馬洲</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="上水"  />
+上水</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="深井"  />
+深井</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大圍"  />
+大圍</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="青衣"  />
+青衣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="天水圍"  />
+天水圍</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="火炭"  />
+火炭</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="西貢"  />
+西貢</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="馬鞍山"  />
+馬鞍山</label></li>
+                                                                                                    </ul>
+                                <div class="scrollbar-cover"></div>
+					        					                                    <li class="subtitle">離島<div class="dropdown"></li>
+                                <ul class="search-box-lv3">
+                                                                                                                                                <li><label><input type="checkbox" name="selected_district" value="離島" class="areaOption"  />
+離島(所有)</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大嶼山"  />
+大嶼山</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="大澳"  />
+大澳</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="長洲"  />
+長洲</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="坪洲"  />
+坪洲</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="東涌"  />
+東涌</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="愉景灣"  />
+愉景灣</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="南丫島"  />
+南丫島</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="赤鱲角"  />
+赤鱲角</label></li>
+                                                                                                                                                                                    <li><label><input type="checkbox" name="selected_district" value="蒲苔島"  />
+蒲苔島</label></li>
+                                                                                                    </ul>
+                                <div class="scrollbar-cover"></div>
+					        					                                    <li class="subtitle">澳門<div class="dropdown"></li>
+                                <ul class="search-box-lv3">
+                                                                                                                                                <li><label><input type="checkbox" name="selected_district" value="澳門"  />
+澳門</label></li>
+                                                                                                    </ul>
+                                <div class="scrollbar-cover"></div>
+					        					    									</ul>
+
+                <li class="cuisine">菜系<div class="dropdown"></div></li>
+                <ul class="search-box-lv2 cuisine">
+                                                                        <li class="subtitle">港式<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="港式"  />
+港式</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">中式<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="中式" class="allOption"  />
+中式(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="順德菜"  />
+順德菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="潮州菜"  />
+潮州菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="廣東菜"  />
+廣東菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="廣西菜"  />
+廣西菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="福建菜"  />
+福建菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="雲南菜"  />
+雲南菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="淮揚菜"  />
+淮揚菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="客家菜"  />
+客家菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="新疆菜"  />
+新疆菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="貴州菜"  />
+貴州菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="浙江菜"  />
+浙江菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="江浙菜"  />
+江浙菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="山東菜"  />
+山東菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="山西菜"  />
+山西菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="陝西菜"  />
+陝西菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="東北菜"  />
+東北菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="湖南菜"  />
+湖南菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="京川滬"  />
+京川滬</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="蒙古菜"  />
+蒙古菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">京川滬<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="京川滬" class="allOption"  />
+京川滬(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="北京菜"  />
+北京菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="四川菜"  />
+四川菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="上海菜"  />
+上海菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">台式<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="台灣菜"  />
+台灣菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">亞洲<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="亞洲" class="allOption"  />
+亞洲(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="日本菜"  />
+日本菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="韓國菜"  />
+韓國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="泰國菜"  />
+泰國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="星馬菜"  />
+星馬菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="印尼菜"  />
+印尼菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="印度菜"  />
+印度菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="越南菜"  />
+越南菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="尼泊爾菜"  />
+尼泊爾菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="澳洲菜"  />
+澳洲菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="菲律賓菜"  />
+菲律賓菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="緬甸菜"  />
+緬甸菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">歐陸<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="歐陸" class="allOption"  />
+歐陸(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="西班牙菜"  />
+西班牙菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="法國菜"  />
+法國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="英國菜"  />
+英國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="德國菜"  />
+德國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="意大利菜"  />
+意大利菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="俄羅斯菜"  />
+俄羅斯菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="比利時菜"  />
+比利時菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="葡萄牙菜"  />
+葡萄牙菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="愛爾蘭菜"  />
+愛爾蘭菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="荷蘭菜"  />
+荷蘭菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="希臘菜"  />
+希臘菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="奧地利菜"  />
+奧地利菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="歐陸菜"  />
+歐陸菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="瑞士菜"  />
+瑞士菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">美洲<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="美洲" class="allOption"  />
+美洲(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="美國菜"  />
+美國菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="阿根廷菜"  />
+阿根廷菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="墨西哥菜"  />
+墨西哥菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="巴西菜"  />
+巴西菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="秘魯菜"  />
+秘魯菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="古巴菜"  />
+古巴菜</label></li>
+                                                            </ul>
+                                                    <li class="subtitle">中東<div class="dropdown"></li>
+                            <ul class="search-box-lv3">
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="中東" class="allOption"  />
+中東(所有)</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="中東菜"  />
+中東菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="地中海菜"  />
+地中海菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="土耳其菜"  />
+土耳其菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="埃及菜"  />
+埃及菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="非洲菜"  />
+非洲菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="黎巴嫩菜"  />
+黎巴嫩菜</label></li>
+                                                                                                        <li><label><input type="checkbox" name="selected_cuisine" value="摩洛哥菜"  />
+摩洛哥菜</label></li>
+                                                            </ul>
+                                                            </ul>
+                
+				<li class="foodtype">菜式<div class="dropdown"></div></li>
+				<ul class="search-box-lv2 foodtype">
+															<li class="subtitle">自助餐/放題<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="自助餐"  />
+自助餐</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="日式放題"  />
+日式放題</label></li>
+					                    </ul>
+										<li class="subtitle">港式<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="港式" class="allOption"  />
+港式(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="茶餐廳/冰室"  />
+茶餐廳/冰室</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="車仔麵"  />
+車仔麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="點心"  />
+點心</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="煲仔飯"  />
+煲仔飯</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="大牌檔"  />
+大牌檔</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="熟食中心"  />
+熟食中心</label></li>
+					                    </ul>
+										<li class="subtitle">中式<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="中式" class="allOption"  />
+中式(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="中菜館"  />
+中菜館</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="酒樓"  />
+酒樓</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="火鍋"  />
+火鍋</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="雞煲"  />
+雞煲</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="粉麵"  />
+粉麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="燒臘"  />
+燒臘</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="雲吞/餃子"  />
+雲吞/餃子</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="粥品"  />
+粥品</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="中式糖水"  />
+中式糖水</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="湯品"  />
+湯品</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="大閘蟹"  />
+大閘蟹</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="小籠包"  />
+小籠包</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="盆菜"  />
+盆菜</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="蛇羹"  />
+蛇羹</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="涼茶/龜苓膏"  />
+涼茶/龜苓膏</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="茶館"  />
+茶館</label></li>
+					                    </ul>
+										<li class="subtitle">日韓<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="日韓" class="allOption"  />
+日韓(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="日式放題"  />
+日式放題</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="拉麵"  />
+拉麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="丼飯"  />
+丼飯</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="廚師發辦"  />
+廚師發辦</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="壽司/刺身"  />
+壽司/刺身</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="居酒屋"  />
+居酒屋</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="燒肉"  />
+燒肉</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="鐵板燒"  />
+鐵板燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="爐端燒"  />
+爐端燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="炸雞"  />
+炸雞</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="串燒"  />
+串燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="烏冬"  />
+烏冬</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="懷石料理"  />
+懷石料理</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="天婦羅"  />
+天婦羅</label></li>
+					                    </ul>
+										<li class="subtitle">甜品<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="甜品" class="allOption"  />
+甜品(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="甜品"  />
+甜品</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="雪糕/乳酪"  />
+雪糕/乳酪</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="西式糕點"  />
+西式糕點</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="中式糖水"  />
+中式糖水</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="朱古力/糖果店"  />
+朱古力/糖果店</label></li>
+					                    </ul>
+										<li class="subtitle">麵食<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="麵食" class="allOption"  />
+麵食(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="粉麵"  />
+粉麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="車仔麵"  />
+車仔麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="拉麵"  />
+拉麵</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="烏冬"  />
+烏冬</label></li>
+					                    </ul>
+										<li class="subtitle">火鍋<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="雞煲"  />
+雞煲</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="火鍋"  />
+火鍋</label></li>
+					                    </ul>
+										<li class="subtitle">燒烤<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="燒烤" class="allOption"  />
+燒烤(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="燒肉"  />
+燒肉</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="串燒"  />
+串燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="鐵板燒"  />
+鐵板燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="爐端燒"  />
+爐端燒</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="燒烤"  />
+燒烤</label></li>
+					                    </ul>
+										<li class="subtitle">快餐<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="快餐" class="allOption"  />
+快餐(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="快餐店"  />
+快餐店</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="小食店"  />
+小食店</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="外賣店"  />
+外賣店</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="Food Court"  />
+Food Court</label></li>
+					                    </ul>
+										<li class="subtitle">飲品<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="飲品" class="allOption"  />
+飲品(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="台式飲品"  />
+台式飲品</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="果汁"  />
+果汁</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="茶館"  />
+茶館</label></li>
+					                    </ul>
+										<li class="subtitle">特色食品<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="特色食品" class="allOption"  />
+特色食品(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="蠔吧"  />
+蠔吧</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="扒房"  />
+扒房</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="素食"  />
+素食</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="沙律"  />
+沙律</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="海鮮"  />
+海鮮</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="龍蝦"  />
+龍蝦</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="大閘蟹"  />
+大閘蟹</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="熱狗"  />
+熱狗</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="漢堡包"  />
+漢堡包</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="薄餅"  />
+薄餅</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="三文治"  />
+三文治</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="咖喱"  />
+咖喱</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="私房菜"  />
+私房菜</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="小籠包"  />
+小籠包</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="盆菜"  />
+盆菜</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="蛇羹"  />
+蛇羹</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="涼茶/龜苓膏"  />
+涼茶/龜苓膏</label></li>
+					                    </ul>
+										<li class="subtitle">其他<div class="dropdown"></li>
+                    <ul class="search-box-lv3">
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="其他" class="allOption"  />
+其他(所有)</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="酒店餐廳"  />
+酒店餐廳</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="Café"  />
+Café</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="西餐廳"  />
+西餐廳</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="酒吧"  />
+酒吧</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="麵包店"  />
+麵包店</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="私房菜"  />
+私房菜</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="Party Room"  />
+Party Room</label></li>
+					                        						<li><label><input type="checkbox" name="selected_foodtype" value="會所"  />
+會所</label></li>
+					                    </ul>
+														</ul>
+
+				<li class="price">價錢<div class="dropdown"></div></li>
+                                    <span class="price-val" style="display: none;">0,51,101,201,401,801</span>
+                                <div class="search-box-lv2 price">
+                    <p><label for="amount"></label><input type="text" id="amount" readonly></p>
+                    <div id="slider-range"></div>
+                </div>
+            </ul>
+			<button id="advanSearchBtn">搜尋</button>
+			</form>
+		</div>
+	</div>
+	<div class="mobile">
+		<div class="menu close"></div>
+	</div>
+
+</header>
+<script type="text/javascript">
+
+    var cc ="HK",
+    storageEngine = window.localStorage;
+    if(storageEngine.getItem('omo_localCC') !== null){
+        cc = storageEngine.getItem('omo_localCC');
+    }
+    
+	$("#advSearchForm").on("submit", "form", function(e){
+	//$(document).on("submit", "form", function(e){
+		e.preventDefault();
+		return  false;
+	});
+
+	$(function() {
+        $(".shareerror").hide();
+		$(document).keypress(function(e) { if(e.which == 13) { $('#searchBtn').click(); }});
+
+		$("#searchBtn").click(function() {
+  			var keyword = $("#inputKeyword").val();
+			var searchOption = $("#searchOption").val();
+			if(keyword.trim().length>0) {
+				//if(searchOption=='article') {
+					/*window.location.href = '*///etw.nextdigital.com.hk//*search/article/?keyword=' + encodeURIComponent(keyword);*/
+				//}
+				//else {
+					/*window.location.href = '*///etw.nextdigital.com.hk//*search/restaurant/?keyword=' + encodeURIComponent(keyword);*/
+				//}
+                setHistoryItems(keyword);
+                var link = '//etw.nextdigital.com.hk/search/article/?keyword=' + encodeURIComponent(keyword);
+				window.location.href = appendFromSource(link);
+			}
+		});
+
+		$("#advanSearchBtn").click(function(e) {
+			e.preventDefault();
+			var area = [], district = [], cuisinetype = [], cuisine = [], foodtype = [], foodgroup=[],spending = [];
+            $.each($("input[name='selected_district']:checked"), function() {
+                if($(this).hasClass('areaOption')) {
+					area.push($(this).val());
+				}
+				else {
+					district.push($(this).val());
+				}
+            });
+			$.each($("input[name='selected_foodtype']:checked"), function() {
+                if($(this).hasClass('allOption')){
+                    foodgroup.push($(this).val());
+                }
+                else {
+                    foodtype.push($(this).val());
+                }
+			});
+			$.each($("input[name='selected_cuisine']:checked"), function() {
+                if($(this).hasClass('allOption')) {
+					cuisinetype.push($(this).val());
+				}
+				else {
+					cuisine.push($(this).val());
+				}
+            });
+			/*$.each($("input[name='selected_spending']:checked"), function() {
+                spending.push($(this).val());
+            });*/
+            $.each($('#amount'), function () {
+                spending.push($(this).data('value'));
+            });
+			
+			/* Fixed don't choose any item not allowed to search */
+			if((area.length===0) && (district.length===0) && (cuisinetype.length===0) && (cuisine.length===0) && (foodtype.length===0) && (foodgroup.length===0)){
+				$(".shareerror").text('請輸入分類搜尋資料').show();
+				return false;
+			}
+			
+			var queryParam = {
+				'area':area.join(","),
+				'district':district.join(","),
+				'cuisinetype':cuisinetype.join(","),
+				'cuisine':cuisine.join(","),
+				'foodtype':foodtype.join(","),
+                'foodgroup':foodgroup.join(","),
+				'spending':spending.join(",")
+			};
+
+			var queryStr = decodeURIComponent(jQuery.param(queryParam));
+			if(queryStr.trim().length>0) {
+                var link = '//etw.nextdigital.com.hk/search/restaurant/?' + queryStr;
+				window.location.href = appendFromSource(link);
+			}
+		});
+
+		$("input[name=selected_district]").change(function() {
+			if($("input[name=selected_district]:checked").length>=3) {
+				$("input[name=selected_district]").each(function() {
+					if($(this).prop('checked')==false) {
+						$(this).attr("disabled", true);
+                        $(".shareerror").text('最多可以選擇3項').show();
+                    }
+				});
+			}
+			else {
+				$("input[name=selected_district]").each(function() {
+					$(this).attr("disabled", false);
+                    $(".shareerror").hide();
+
+                });
+			}
+		});
+
+		$("input[name=selected_foodtype]").change(function() {
+            //-- HKMAGST-3973 block both cuisine and foodtype search--
+            if($("input[name=selected_foodtype]:checked").length>0) {
+                $('ul.search-box-lv1 li.cuisine').addClass("disabled");
+            }else{
+                $('ul.search-box-lv1 li.cuisine').removeClass("disabled");
+            }
+            //------------
+			if($("input[name=selected_foodtype]:checked").length>=3) {
+				$("input[name=selected_foodtype]").each(function() {
+					if($(this).prop('checked')==false) {
+						$(this).attr("disabled", true);
+                        $(".shareerror").text('最多可以選擇3項').show();
+
+                    }
+				});
+			}
+			else {
+				$("input[name=selected_foodtype]").each(function() {
+					$(this).attr("disabled", false);
+                    $(".shareerror").hide();
+
+                });
+			}
+		});
+
+		$("input[name=selected_cuisine]").change(function() {
+            //-- HKMAGST-3973 block both cuisine and foodtype search--
+            if($("input[name=selected_cuisine]:checked").length>0) {
+                $('ul.search-box-lv1 li.foodtype').addClass("disabled");
+            }else{
+                $('ul.search-box-lv1 li.foodtype').removeClass("disabled");
+            }
+		    //-------------
+			if($("input[name=selected_cuisine]:checked").length>=3) {
+				$("input[name=selected_cuisine]").each(function() {
+					if($(this).prop('checked')==false) {
+						$(this).attr("disabled", true);
+						$(".shareerror").text('最多可以選擇3項').show();
+					}
+				});
+			}
+			else {
+				$("input[name=selected_cuisine]").each(function() {
+					$(this).attr("disabled", false);
+                    $(".shareerror").hide();
+
+                });
+			}
+		});
+
+		//$("input[name=selected_spending]").change(function() {
+		//	if($("input[name=selected_spending]:checked").length>=1) {
+		// 		$("input[name=selected_spending]").each(function() {
+		// 			if($(this).prop('checked')==false) {
+		// 				$(this).attr("disabled", true);
+		// 			}
+		// 		});
+		// 	}
+		// 	else {
+		// 		$("input[name=selected_spending]").each(function() {
+		// 			$(this).attr("disabled", false);
+		// 		});
+		//	}
+		//});
+        $('.search-box-lv1 > li').click(function(){
+            $(".shareerror").hide();
+        });
+
+        $('.search-box-lv1 > li.district').click(function(){
+            $(".shareerror").hide();
+            if($("input[name=selected_district]:checked").length>=3) {
+                $(".shareerror").text('最多可以選擇3項').show();
+            }
+        });
+        $('.search-box-lv1 > li.foodtype').click(function(){
+            $(".shareerror").hide();
+            if($("input[name=selected_foodtype]:checked").length>=3) {
+                $(".shareerror").text('最多可以選擇3項').show();
+            }
+        });
+        $('.search-box-lv1 > li.cuisine').click(function(){
+            $(".shareerror").hide();
+            if($("input[name=selected_foodtype]:checked").length>=3) {
+                $(".shareerror").text('最多可以選擇3項').show();
+            }
+        });
+
+        $('.search-box-lv2.district>li').first().addClass("active");
+        $('.search-box-lv2.foodtype>li').first().addClass("active");
+        $('.search-box-lv2.cuisine>li').first().addClass("active");
+        /*$('.search-box-lv2>li').on('click', function () {
+            $(this).parent().children('li').removeClass('active');
+            $(this).addClass('active');
+            $('.search-box-lv2').scrollTop(0);
+        });*/
+        // display choose item
+        $('.search-box-lv3 input').on('click', function () {
+            $(this).parent().addClass('selected');
+            var classes = $(this).parents('.search-box-lv2').attr('class').replace('search-box-lv2', '').trim();
+            var keyword = $(this).parent().text().trim();
+            if($(this).prop('checked') === true){
+                var htmlContent = '<span class="choose-item '+ classes +'">'+ keyword +'<i class="icon-del">x</i></span>';
+                $('.choose-group').append(htmlContent);
+            } else{
+                $('.choose-group>.choose-item').each(function () {
+                    var itemTxt = $(this).text().trim();
+                    if(itemTxt.indexOf(keyword) !== (-1)){
+                        $(this).remove();
+                    }
+                });
+            }
+        });
+        // remove display item
+        $('.choose-group').on('click', '.choose-item', function () {
+            var thisSpan = $(this).text().replace('x', '').trim();
+            var classes = $(this).attr('class').replace('choose-item', '').trim();
+            if(classes === 'price'){
+                $('#slider-range').data("ionRangeSlider").reset();
+                $('#amount').val('任何');
+                $('#amount').data('value','');
+            } else {
+                var labelArr= $('.search-box-lv2.'+classes).find('.selected');
+                $(labelArr).each(function () {
+                    if($(this).text().trim() === thisSpan){
+                        $(this).children().prop('checked', false);
+                    }
+                });
+                $('.search-box-lv2.'+classes).find('input').each(function () {
+                    $(this).attr("disabled", false);
+                    $(".shareerror").hide();
+                });
+                if($("input[name=selected_foodtype]:checked").length>0) {
+                    $('ul.search-box-lv1 li.cuisine').addClass("disabled");
+                }else{
+                    $('ul.search-box-lv1 li.cuisine').removeClass("disabled");
+                }
+                if($("input[name=selected_cuisine]:checked").length>0) {
+                    $('ul.search-box-lv1 li.foodtype').addClass("disabled");
+                }else{
+                    $('ul.search-box-lv1 li.foodtype').removeClass("disabled");
+                }
+            }
+            $(this).remove();
+        });
+
+        // /* slider range */
+        var priceStr = $('.price-val').text().trim();
+        var priceArr = priceStr.split(',');
+        let priceString = priceArr.map(function(price){ if(price == "0"){return "$"+0;} return "$"+String(parseInt(price)-1)});
+        priceString.push("$"+priceArr[priceArr.length-1]+'以上');  // 添加一个代表无限的数值
+        var $range = $("#slider-range");
+
+        $range.ionRangeSlider({
+            type: "double",
+            grid: true,
+            from: priceString[0],
+            to: priceString[priceString.length-1],
+            values: priceString,
+            hide_from_to: false,
+            hide_min_max: true,
+            min_interval: 1,
+            onStart: function (data) {
+                if((data.from === 0) && (data.to === priceString.length-1)) {
+                    $('#amount').val('任何');
+                } else {
+                    $('#amount').val('$' + data.from+ ' - $' + data);
+                }
+            },
+            onFinish: function (data) {
+                var priceStr = $('.price-val').text().trim();
+                var priceArr = priceStr.split(',');
+                priceArr.push('');  // 添加一个代表无限的数值
+                var left = data.from;
+                var right = data.to;
+                if(left === right) {  // 阻止两个handle重合
+                    return false;
+                } else {
+                    if(left === 0 && right === priceArr.length-1) {
+                        $('#amount').val('任何');
+                    } else if(left === 0){
+                        $('#amount').val('$' + (parseInt(priceArr[right])-1) + '以下');
+                    } else if(right === priceArr.length-1){
+                        $('#amount').val('$' + parseInt(priceArr[left]-1) + '以上');
+                    } else{
+                        $('#amount').val('$' + parseInt(priceArr[left]-1) + ' - $' + parseInt(priceArr[right]-1));
+                    }
+                    
+                    if(priceArr[right].length==0&&priceArr[left]!='0'){
+                        $('#amount').data('value', parseInt(priceArr[left]-1) + ',' + priceArr[right]);
+                    }
+                    if(priceArr[right].length!=0&&priceArr[left]=='0'){
+                        $('#amount').data('value', priceArr[left] + ',' + parseInt(priceArr[right]-1));
+                    }
+                    if(priceArr[right].length!=0&&priceArr[left]!='0'){
+                        $('#amount').data('value', parseInt(priceArr[left]-1) + ',' + parseInt(priceArr[right]-1));
+                    }
+                    
+                }
+                // update choose group
+                if($('.choose-group>.choose-item').length > 0 && $('.choose-item.price').length > 0){
+                    $('.choose-group>.choose-item').each(function () {
+                        if($(this).hasClass('price')){
+                            $('.choose-item.price').text($('#amount').val());
+                            $('.choose-item.price').append('<i class="icon-del">x</i>');
+                        }
+                    });
+                } else if($('.choose-item.price').length === 0) {
+                    var htmlContent = '<span class="choose-item price">'+ $('#amount').val() +'<i class="icon-del">x</i></span>';
+                    $('.choose-group').append(htmlContent);
+                }
+
+            }
+        });
+
+
+        function getCookie(cname) {
+         var name = cname + "=";
+         var ca = document.cookie.split(';');
+         for(var i = 0; i < ca.length; i++) {
+             var c = ca[i];
+             while (c.charAt(0) == ' ') {
+                 c = c.substring(1);
+             }
+             if (c.indexOf(name) == 0) {
+                           return c.substring(name.length, c.length);
+             }
+         }
+         return "";
+        }
+
+        function setCookie(cname, cvalue, exdays) {
+             var d = new Date();
+             d.setTime(d.getTime() + (exdays*24*60*60*1000));
+             //d.setTime(d.getTime() + (60 * 1000)); //Test with 1 min expire
+             var expires = "expires="+d.toUTCString();
+             document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain="+"etw.nextdigital.com.hk";
+        }
+
+        function delCookie(cname) {
+             var exp = new Date();
+             exp.setTime(exp.getTime() - 1);
+             var expires = "expires="+exp.toUTCString();
+             var cval=getCookie(cname);
+             if(cval!=null)
+             document.cookie = cname + "=" + cval + ";" + expires + ";path=/;domain="+"etw.nextdigital.com.hk";
+        }
+
+        /* login register*/
+        function initUserPanel() {
+            $('#login-button').on('click', function (e) {
+                e.preventDefault();
+
+                var utm_param = ureadPrepareParams();
+                OMOSDK.logger().extraUTMParams({
+                    utm_source: utm_param['utm_source'],
+                    utm_medium: utm_param['utm_medium'],
+                    utm_campaign: utm_param['utm_campaign'],
+                    utm_term: utm_param['utm_term'],
+                    utm_content: utm_param['utm_content']
+                })
+
+                OMOSDK.auth().redirectLogin();
+            });
+            $('#image-login-button').on('click', function (e) {
+                e.preventDefault();
+
+                var utm_param = ureadPrepareParams();
+                OMOSDK.logger().extraUTMParams({
+                    utm_source: utm_param['utm_source'],
+                    utm_medium: utm_param['utm_medium'],
+                    utm_campaign: utm_param['utm_campaign'],
+                    utm_term: utm_param['utm_term'],
+                    utm_content: utm_param['utm_content']
+                })
+
+                OMOSDK.auth().redirectLogin();
+
+            });
+
+            $('.profile-edit-btn').on('click',function(e){
+                var is_login = OMOSDK.auth().getUserInfo().isLoggedIn;
+                e.preventDefault();
+
+                var utm_param = ureadPrepareParams();
+                OMOSDK.logger().extraUTMParams({
+                    utm_source: utm_param['utm_source'],
+                    utm_medium: utm_param['utm_medium'],
+                    utm_campaign: utm_param['utm_campaign'],
+                    utm_term: utm_param['utm_term'],
+                    utm_content: utm_param['utm_content']
+                })
+
+                if(!is_login){
+                    OMOSDK.auth().redirectLogin();
+                }else{
+                    OMOSDK.auth().redirectProfile();
+                }
+
+            });
+
+            $('#logout-button').on('click', function (e) {
+                var is_login = OMOSDK.auth().getUserInfo().isLoggedIn;
+                e.preventDefault();
+
+                var utm_param = ureadPrepareParams();
+                OMOSDK.logger().extraUTMParams({
+                    utm_source: utm_param['utm_source'],
+                    utm_medium: utm_param['utm_medium'],
+                    utm_campaign: utm_param['utm_campaign'],
+                    utm_term: utm_param['utm_term'],
+                    utm_content: utm_param['utm_content']
+                })
+                if(!is_login){
+                    OMOSDK.auth().redirectLogin();
+                }else{
+                    OMOSDK.auth().redirectProfile();
+                }
+
+            });
+        }
+        function renderUserPanel(currentUser) {
+            if(currentUser.isLoggedIn) {
+                var ref = getCookie('Refresh');
+                if((typeof(ref)=="undefined") || ref===null || ref.length==0){
+                        location.reload();
+                }
+                setCookie('Refresh', 'true', 1);
+                $('.login-panel').hide();
+                var img ='<img src="' + currentUser.currentProfile.image+'" alt='+currentUser.currentProfile.displayName+'" alt="user">' ;
+                $('#my_image').html(img);
+                $('.profile-img').html(img);
+                $('.profile-username').html(currentUser.currentProfile.displayName);
+                $('.user-panel').show();
+
+                if('page-home'=='page-article'){
+                    var ajaxParam = {};
+                    var aId = "";
+                    var omoToken = OMOSDK.auth().getAccessToken();
+                    var nxtu = getCookie("nxtu");
+                    ajaxParam.aId = aId;
+                    ajaxParam.omoToken = omoToken;
+                    ajaxParam.adid = nxtu;
+
+                    $.ajax({  
+                                type : "POST",  //提交方式
+                                async: false,
+                                dataType: 'JSON',
+                                url : '//etw.nextdigital.com.hk/ajax/user_profile', 
+                                data : ajaxParam,
+                                success : function(data) {//返回数据根据结果进行相应的处理 
+
+                                    // var data = JSON.parse(result);
+
+                                    if(data.is_bookmark=='true'){
+                                        $('.article-bookmark .img-box>img').attr("src","https://nd-etw-webstatic.nxtdig.com.hk/images/ic_article_bookmarked.png");
+                                    }
+                                    if(data.is_bookmark=='false'){
+                                        $('.article-bookmark .img-box>img').attr("src","https://nd-etw-webstatic.nxtdig.com.hk/images/ic_article_bookmark.png");
+                                    }
+                                }  
+                            });
+                }
+                var omolstway = getCookie('OMO_LSTLGWAY');
+                dataLayer.push({
+                    'event': 'omo_login_success',
+                    'eventName': 'omo_login_success',
+                    'eventCategory': 'omo_login',
+                    'eventAction': 'success',
+                    'eventLabel': omolstway,
+                    'c19': 'omo_login',
+                    'c50': 'YES',
+                    'c51': (currentUser.currentAccount.gender =='MALE'?'M':'F') || 'NIL',
+                    'c52': currentUser.currentAccount.birthday,
+                    'c104': currentUser.currentAccount.accountId,
+                    'c105': currentUser.currentProfile.profileId
+                });
+            } else {
+                delCookie('Refresh');
+                $('.user-panel').hide();
+                $('.login-panel').show();
+            }
+        }
+
+        var OMOSDK = new OMO({
+            appId: "58ef4ec7172d940c00bc54b3",
+            language: "zh_hk",
+            region: cc,
+            authenticationServerUrl: 'https://auth.nextdigital.com.hk/'
+        });
+
+        OMOSDK.auth().onSuccessfulLogin(function(account) {
+            console.log(account.lastLoginProvider);
+            setCookie('OMO_LSTLGWAY',account.lastLoginProvider,7);        
+        });
+
+        initUserPanel();
+        renderUserPanel(OMOSDK.auth().getUserInfo());
+        OMOSDK.auth().subscribe(function (user) {
+            renderUserPanel(user);
+        });
+        
+	});
+			
+	//存值方法,新的值添加在首位  
+	function setHistoryItems(keyword) {  
+		//let { historyItems } = localStorage;
+		if (localStorage.historyItems === undefined) {  
+		    localStorage.historyItems = keyword;  
+		} else { 
+            var arr = localStorage.historyItems.split('|');
+            Array.prototype.indexOf = function(val) {
+                for (var i = 0; i < this.length; i++) {
+                if (this[i] == val) return i;
+                }
+                return -1;
+            };
+            Array.prototype.remove = function(val) {
+                var index = this.indexOf(val);
+                if (index > -1) {
+                this.splice(index, 1);
+                }
+            };
+                            
+            for (var k = 0, length = arr.length; k < length; k++) {
+                if(arr[k]==keyword){
+                    arr.remove(arr[k]);
+                }
+            }
+            localStorage.historyItems = keyword + '|' + arr.join('|'); 
+            
+		}  
+	};
+	//取值写入页面  
+	$(function(){  
+	    var str=localStorage.historyItems;  
+	    var s = '';  
+	    if(str==undefined){  
+	        //s='<div class="rmssts">暂无搜尋記錄...</div>';  
+	        //$("#lssslb").append(s);
+            $('.lsss').css('display','none');
+	    }else{  
+	        var strs= new Array();  
+	        strs=str.split("|");
+	        var surl = '//etw.nextdigital.com.hk/';
+	        var nums = strs.length;
+	        if(nums>10){
+	        	nums=10;
+	        }  
+	        for(var i=0;i<nums;i++){  
+	            s+= "<a href='"+surl+"search/restaurant/?keyword="+strs[i]+"' class='searchKeywords' >"+strs[i]+"</a>";  
+	        }  
+	        $("#lssslb").append(s);
+	        //$("#lssslb").append(s+'<input type="button" class="scls" onclick="clearHistory();" value="清除历史记录">');  
+	    }  
+	});
+	//清除值  
+	function clearHistory() {   
+	    localStorage.removeItem('historyItems');  
+	    var div = document.getElementById("lssslb");  
+	    while(div.hasChildNodes()) //当div下还存在子节点时 循环继续  
+	    {  
+	        div.removeChild(div.firstChild);  
+	    }  
+	    $("#lssslb").append('<div class="rmssts">暂无搜尋記錄...</div>');  
+	}
+    var OMOSDK1 = new OMO({
+            appId: "58ef4ec7172d940c00bc54b3",
+            language: "zh_hk",
+            region: cc,
+            authenticationServerUrl: 'https://auth.nextdigital.com.hk/'
+    });
+    $("#my_image").on('click', function () {
+            var omoToken = OMOSDK1.auth().getAccessToken();
+            var link = '//etw.nextdigital.com.hk/MyProfile/index/'+omoToken;
+            window.location.href = appendFromSource(link);
+    });
+
+    // -----------Ad block logic ------------
+    var isAdBlocked = true;
+    googletag.cmd.push(function() {
+        googletag.pubads().addEventListener('impressionViewable', function(e) {
+        if (e.serviceName==='publisher_ads') {
+                isAdBlocked = false;
+            }
+        });
+    });
+
+    $(document).ready(function() {
+        window.setTimeout(function(){
+            var adblk = (isAdBlocked) ?'Y':'N';
+            document.cookie = "adisblk="+adblk+"; path=/;domain=.appledaily.com";
+        },8000);
+    });
+   // -----------Ad block logic ------------
+
+</script>
+<div class="navi">
+  <div class="main-navi-wrapper">
+        <nav class="main-navi">
+          <ul>
+                        <li class="current">
+          <a href="//etw.nextdigital.com.hk/" >
+            主頁          </a>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/editorialpick" >
+            懶人包          </a>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/新上場" >
+            新上場          </a>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/編輯試食" >
+            編輯試食          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/編輯試食/tag/編輯試食" >
+                編輯試食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/編輯試食/tag/比拼" >
+                比拼              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/編輯試食/tag/試伏器" >
+                試伏器              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/熱話" >
+            熱話          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/熱話/tag/熱話" >
+                熱話              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/熱話/tag/速News" >
+                速News              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/熱話/tag/懶人包" >
+                懶人包              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/熱話/tag/自助餐" >
+                自助餐              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/專題" >
+            專題          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/專題" >
+                專題              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/失傳中菜" >
+                失傳中菜              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/最強美食" >
+                最強美食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/90後真人show" >
+                90後真人show              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/地區小店" >
+                地區小店              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/專題/tag/街市尋寶" >
+                街市尋寶              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/人物專訪" >
+            人物專訪          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/人物專訪/tag/人物專訪" >
+                人物專訪              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/人物專訪/tag/老字號" >
+                老字號              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/人物專訪/tag/失傳行業" >
+                失傳行業              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/名人搵食" >
+            名人搵食          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/名人搵食" >
+                名人搵食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/跟黃秋生搵食" >
+                跟黃秋生搵食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/跟律師搵食" >
+                跟律師搵食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/祥仔飯局" >
+                祥仔飯局              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/Soko食堂" >
+                Soko食堂              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/名人搵食/tag/玲玲X民間高手" >
+                玲玲X民間高手              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/食譜" >
+            食譜          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/食譜" >
+                食譜              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/大師姐" >
+                大師姐              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/簡易食譜" >
+                簡易食譜              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/湯水達人Natalie" >
+                湯水達人Natalie              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/Chef Ricky" >
+                Chef Ricky              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/祖堯素食" >
+                祖堯素食              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/日本人家常菜" >
+                日本人家常菜              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/麻甩佬食經" >
+                麻甩佬食經              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/食譜/tag/廚具" >
+                廚具              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/冷知識" >
+            冷知識          </a>
+                    <span class="arrow">
+          </span>
+          <div class="sub-navi">
+            <ul>
+                                        <li >
+              <a href="//etw.nextdigital.com.hk/channel/冷知識/tag/健康" >
+                健康              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/冷知識/tag/食材" >
+                食材              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/冷知識/tag/冷知識" >
+                冷知識              </a>
+            </li>
+                          <li >
+              <a href="//etw.nextdigital.com.hk/channel/冷知識/tag/大廚小貼士" >
+                大廚小貼士              </a>
+            </li>
+                                        </ul>
+          </div>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/channel/食在台灣" >
+            食在台灣          </a>
+                  </li>
+                <li >
+          <a href="//etw.nextdigital.com.hk/foodchannel" >
+            美食頻道          </a>
+                  </li>
+                      </ul>
+    </nav>
+  </div>
+</div>
+
+<div class="mobile overlay"></div>
+<!--begin my profile -->
+<div class="main-container">
+
+		<!-- Head Banner -->
+	<div id='div-HeadBanner' class="desktop" style="text-align:center;">
+		<script>googletag.cmd.push(function() { googletag.display('div-HeadBanner'); });</script>
+	</div>
+		<!-- Head Banner -->
+
+		<div class="lt">
+		<div class="lt-container">
+			<!-- Content -->
+				<!-- Skyscraper -->
+		<div id="div-Skyscraper1" class="desktop">
+		<script>googletag.cmd.push(function() { googletag.display('div-Skyscraper1'); });</script>
+	</div>
+			<div id="div-Skyscraper2" class="desktop">
+		<script>googletag.cmd.push(function() { googletag.display('div-Skyscraper2'); });</script>
+	</div>
+		<!-- Skyscraper -->
+<div class="home-container">
+    <div class="home-wrapper">
+        <!-- focus-news -->
+        <div class="focus news-section clearfix">
+        <div class="title"><h4>最新</h4></div>
+            <div class="news-lists">
+                                    <div class="news big">
+                <a href="//etw.nextdigital.com.hk/article/3_61263906/將軍澳新超市日出康城首間大型超市登陸2萬呎共26個食材雜貨專區-必試388-Omakase">
+                <div class="news-wrapper">
+                    <div class="img">
+                                        <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200824/large/1598265458_b481.jpg" alt="【將軍澳新超市】日出康城首間大型超市登陸！2萬呎共26個食材雜貨專區 必試$388 Omakase">
+                    </div>
+                    <div class="text">
+                                             <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                        <div class="title">【將軍澳新超市】日出康城首間大型超市登陸！2萬呎共26個食材雜貨專區 必試$388 Omakase</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+            
+                       
+            <!-- FixedBanner1 -->
+		    <div id='div-FixedBanner1' class="mobile" style="width:100%;text-align:center;">
+			<script>googletag.cmd.push(function() { googletag.display('div-FixedBanner1'); });</script>
+		    </div>
+		    <!-- FixedBanner1 -->
+            
+            
+                        <div class="news ">
+                <a href="//etw.nextdigital.com.hk/article/3_61190136/黃瓜青瓜都一樣點解內地人叫黃瓜廣東人嫌大吉利是改名叫青瓜">
+                <div class="news-wrapper">
+                    <div class="img">
+                                             <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                        <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200728/large/1595922640_8d14.jpg" alt="【黃瓜青瓜都一樣】點解內地人叫黃瓜？廣東人嫌大吉利是改名叫青瓜">
+                    </div>
+                    <div class="text">
+                                        <div class="title">【黃瓜青瓜都一樣】點解內地人叫黃瓜？廣東人...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+            
+            
+                        <div class="news ">
+                <a href="//etw.nextdigital.com.hk/article/3_61263856/台灣米芝蓮放榜首次包括台中區-6家餐廳首奪星-粵菜名店蟬聯3星">
+                <div class="news-wrapper">
+                    <div class="img">
+                                        <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200824/large/1598258372_0867.jpg" alt="【台灣米芝蓮放榜】首次包括台中區 6家餐廳首奪星 粵菜名店蟬聯3星">
+                    </div>
+                    <div class="text">
+                                        <div class="title">【台灣米芝蓮放榜】首次包括台中區 6家餐廳...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+            
+            
+                        <div class="news ">
+                <a href="//etw.nextdigital.com.hk/article/3_61263248/麻辣拌麵已賣3000包筲箕灣麻辣小店出17台式拌麵自救-麻辣後勁強-柚子味清爽開胃">
+                <div class="news-wrapper">
+                    <div class="img">
+                                             <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                        <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1597994761_592a.jpg" alt="【麻辣拌麵】已賣3,000包！筲箕灣麻辣小店出$17台式拌麵自救 麻辣後勁強 柚子味清爽開胃">
+                    </div>
+                    <div class="text">
+                                        <div class="title">【麻辣拌麵】已賣3,000包！筲箕灣麻辣小...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+            
+            
+                                    </div>
+        </div>
+        <!-- focus-news -->
+
+                                              
+        <!-- section -->
+        <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/新上場"><h4>新上場</h4></a><span><a href="//etw.nextdigital.com.hk/channel/新上場">更多</a></span></div>
+            <div class="news-lists">
+                                    <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61263169/中環中菜人氣中菜館藝穗會開分店-推限定295西班牙橡果級黑豚叉燒">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1597979514_3338.jpg" alt="【中環中菜】人氣中菜館藝穗會開分店 推限定$295西班牙橡果級黑豚叉燒">
+                    </div>
+                    <div class="text">
+                    <div class="title">【中環中菜】人氣中菜館藝穗會開分店 推限定...</div>
+                    <div class="info">
+                        <div class="date">2020-08-23</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61263196/紅磡日式布甸過江甜品名牌-只限外賣-日本直送32天然蜂蜜布甸">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1597978845_d601.jpg" alt="【紅磡日式布甸】過江甜品名牌 只限外賣 日本直送$32天然蜂蜜布甸">
+                    </div>
+                    <div class="text">
+                    <div class="title">【紅磡日式布甸】過江甜品名牌 只限外賣 日...</div>
+                    <div class="info">
+                        <div class="date">2020-08-21</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61214400/旺角韓國菜韓國廚food-court賣小食-32半份墨魚炸蝦飯卷-19黑糖花生糖餅">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200817/large/1597647504_6674.jpg" alt="【旺角韓國菜】韓國廚food court賣小食 $32/半份墨魚炸蝦飯卷 $19黑糖花生糖餅">
+                    </div>
+                    <div class="text">
+                    <div class="title">【旺角韓國菜】韓國廚food court賣...</div>
+                    <div class="info">
+                        <div class="date">2020-08-20</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div>
+        <!--/section-->
+          <!--except-->
+                        
+        <!-- section -->
+        <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/編輯試食"><h4>編輯試食</h4></a><span><a href="//etw.nextdigital.com.hk/channel/編輯試食">更多</a></span></div>
+            <div class="news-lists">
+                                    <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61260692/牛角包比拼烘焙師實試-五大急凍牛角包-法國出品大熱倒灶-韓國品牌牛油味夠香">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200818/large/1597744670_1e7a.jpg" alt="【牛角包比拼】烘焙師實試 五大急凍牛角包 法國出品大熱倒灶 韓國品牌牛油味夠香">
+                    </div>
+                    <div class="text">
+                    <div class="title">【牛角包比拼】烘焙師實試 五大急凍牛角包 ...</div>
+                    <div class="info">
+                        <div class="date">2020-08-20</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61261996/中環日本菜人氣居酒屋-客席日籍大廚-牡丹蝦壽司甘甜鰹魚肥美-七成日本客-氣氛好當去咗日本">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200814/large/1597399883_4215.jpg" alt="【中環日本菜】人氣居酒屋 客席日籍大廚 牡丹蝦壽司甘甜鰹魚肥美 七成日本客 氣氛好當去咗日本">
+                    </div>
+                    <div class="text">
+                    <div class="title">【中環日本菜】人氣居酒屋 客席日籍大廚 牡...</div>
+                    <div class="info">
+                        <div class="date">2020-08-18</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61247918/麻油比拼盲試15款麻油-55韓國牌子估唔到咁正-名廚大讚有爆炸性芝麻香味">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200812/large/1597221086_27f1.jpg" alt="【麻油比拼】盲試15款麻油 $55韓國牌子估唔到咁正 名廚大讚︰有爆炸性芝麻香味">
+                    </div>
+                    <div class="text">
+                    <div class="title">【麻油比拼】盲試15款麻油 $55韓國牌子...</div>
+                    <div class="info">
+                        <div class="date">2020-08-13</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div>
+        <!--/section-->
+          <!--except-->
+                        
+        <!-- section -->
+        <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/熱話"><h4>熱話</h4></a><span><a href="//etw.nextdigital.com.hk/channel/熱話">更多</a></span></div>
+            <div class="news-lists">
+                                    <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61263906/將軍澳新超市日出康城首間大型超市登陸2萬呎共26個食材雜貨專區-必試388-Omakase">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200824/large/1598265458_b481.jpg" alt="【將軍澳新超市】日出康城首間大型超市登陸！2萬呎共26個食材雜貨專區 必試$388 Omakase">
+                    </div>
+                    <div class="text">
+                    <div class="title">【將軍澳新超市】日出康城首間大型超市登陸！...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61263856/台灣米芝蓮放榜首次包括台中區-6家餐廳首奪星-粵菜名店蟬聯3星">
+                <div class="news-wrapper">
+                    <div class="img">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200824/large/1598258372_0867.jpg" alt="【台灣米芝蓮放榜】首次包括台中區 6家餐廳首奪星 粵菜名店蟬聯3星">
+                    </div>
+                    <div class="text">
+                    <div class="title">【台灣米芝蓮放榜】首次包括台中區 6家餐廳...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="//etw.nextdigital.com.hk/article/3_61263248/麻辣拌麵已賣3000包筲箕灣麻辣小店出17台式拌麵自救-麻辣後勁強-柚子味清爽開胃">
+                <div class="news-wrapper">
+                    <div class="img">
+                                                <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1597994761_592a.jpg" alt="【麻辣拌麵】已賣3,000包！筲箕灣麻辣小店出$17台式拌麵自救 麻辣後勁強 柚子味清爽開胃">
+                    </div>
+                    <div class="text">
+                    <div class="title">【麻辣拌麵】已賣3,000包！筲箕灣麻辣小...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div>
+        <!--/section-->
+          <!--except-->
+                 
+        <!-- section col2 -->
+                <div class="col2">
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/專題"><h4>專題</h4></a><span><a href="//etw.nextdigital.com.hk/channel/專題">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61238496/神秘美食土瓜灣茶餐廳獨特湯底通粉-最多日賣200碗-每日凌晨製作-唔用罐頭貨">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200820/large/1597915703_6830.jpg" alt="【神秘美食】土瓜灣茶餐廳獨特湯底通粉 最多日賣200碗 每日凌晨製作 唔用罐頭貨"></div>
+                    <div class="text">
+                    <div class="title">【神秘美食】土瓜灣茶餐廳獨特湯底通粉 最多日賣200碗 每日凌...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61217323/街市尋寶WFH最啱-將軍澳香港製墨魚滑-95以上墨魚成份-罕見明太子墨汁味-一星期賣300斤">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200803/large/1596448820_b83d.jpg" alt="【街市尋寶】WFH最啱 將軍澳香港製墨魚滑 95%以上墨魚成份 罕見明太子＋墨汁味 一星期賣300斤"></div>
+                    <div class="text">
+                    <div class="title">【街市尋寶】WFH最啱 將軍澳香港...</div>
+                    <div class="info">
+                        <div class="date">2020-08-23</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61201314/港式點心大解構三日兩夜煉成古法馬拉糕-有麒麟皮入口鬆軟-深色勝淺色-邊位軟滑有得解">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598003414_a90e.jpg" alt="【港式點心大解構】三日兩夜煉成古法馬拉糕 有麒麟皮入口鬆軟 深色勝淺色 邊位軟滑有得解"></div>
+                    <div class="text">
+                    <div class="title">【港式點心大解構】三日兩夜煉成古法...</div>
+                    <div class="info">
+                        <div class="date">2020-08-23</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/人物專訪"><h4>人物專訪</h4></a><span><a href="//etw.nextdigital.com.hk/channel/人物專訪">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61250938/買餸網店歌手保母明星化妝師轉行-使10萬開網店幫人買餸-新鮮魚入抽真空袋">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200817/large/1597636076_1e0d.jpg" alt="【買餸網店】歌手保母＋明星化妝師轉行 使10萬開網店幫人買餸  新鮮魚入抽真空袋"></div>
+                    <div class="text">
+                    <div class="title">【買餸網店】歌手保母＋明星化妝師轉行 使10萬開網店幫人買餸 ...</div>
+                    <div class="info">
+                        <div class="date">2020-08-20</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61248401/大圍老字號自家炒醬做辣魚蛋-名牌臭豆腐-小食店老闆中年喪妻父母離世冇親情幾多錢都冇用">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200814/large/1597400303_53a2.jpg" alt="【大圍老字號】自家炒醬做辣魚蛋 名牌臭豆腐 小食店老闆中年喪妻父母離世：冇親情幾多錢都冇用"></div>
+                    <div class="text">
+                    <div class="title">【大圍老字號】自家炒醬做辣魚蛋 名...</div>
+                    <div class="info">
+                        <div class="date">2020-08-16</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61258856/人氣鹹菜雞陳豪關心妍都讚-63歲聯和墟茶檔老闆娘出山-開網店賣388隻鹹菜雞-做得幾耐得幾耐">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200813/large/1597310655_a20a.jpg" alt="【人氣鹹菜雞】陳豪關心妍都讚 63歲聯和墟茶檔老闆娘出山 開網店賣$388/隻鹹菜雞 「做得幾耐得幾耐」"></div>
+                    <div class="text">
+                    <div class="title">【人氣鹹菜雞】陳豪關心妍都讚 63...</div>
+                    <div class="info">
+                        <div class="date">2020-08-14</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/名人搵食"><h4>名人搵食</h4></a><span><a href="//etw.nextdigital.com.hk/channel/名人搵食">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61263290/Soko跟你回家吃飯港男躋身日本連鎖服裝品牌高層-年薪百萬-為陪孩子裸辭-炮製媽媽傳授越式牛肉檬">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598005205_d011.jpg" alt="【Soko跟你回家吃飯】港男躋身日本連鎖服裝品牌高層 年薪百萬 為陪孩子裸辭 炮製媽媽傳授越式牛肉檬"></div>
+                    <div class="text">
+                    <div class="title">【Soko跟你回家吃飯】港男躋身日本連鎖服裝品牌高層 年薪百萬...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61258638/每酒一字Wilson-Kwok教飲盛夏甜蜜冰酒-配蜜桃沙律果香爆發">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200813/large/1597317592_619b.jpg" alt="【每酒一字】Wilson Kwok教飲盛夏甜蜜冰酒 配蜜桃沙律果香爆發"></div>
+                    <div class="text">
+                    <div class="title">【每酒一字】Wilson Kwok...</div>
+                    <div class="info">
+                        <div class="date">2020-08-23</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61240533/每酒一字Wilson-Kwok教飲阿爾薩斯Riesling-頂級白酒富橙花香-配白酒煮雞清酸解膩">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200810/large/1597051729_340a.jpg" alt="【每酒一字】Wilson Kwok教飲阿爾薩斯Riesling 頂級白酒富橙花香 配白酒煮雞清酸解膩"></div>
+                    <div class="text">
+                    <div class="title">【每酒一字】Wilson Kwok...</div>
+                    <div class="info">
+                        <div class="date">2020-08-16</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/食譜"><h4>食譜</h4></a><span><a href="//etw.nextdigital.com.hk/channel/食譜">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61262954/三餸一湯荔枝糖醋豬柳-Deep-fried-Pork-Tenderloin-and-Litchi-with-Sweet-and-Sour-Sauce">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007683_eafb.jpg" alt="【三餸一湯】荔枝糖醋豬柳 Deep fried Pork Tenderloin and Litchi with Sweet and Sour Sauce"></div>
+                    <div class="text">
+                    <div class="title">【三餸一湯】荔枝糖醋豬柳 Deep fried Pork Te...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61262945/三餸一湯是日菜單-雜菌烘蛋-荔枝糖醋豬柳-菜脯蒜香蒸蝦-綠豆章魚蓮藕湯">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007383_8f56.jpg" alt="【三餸一湯】是日菜單 <br> 雜菌烘蛋 <br> 荔枝糖醋豬柳 <br> 菜脯蒜香蒸蝦 <br> 綠豆章魚蓮藕湯"></div>
+                    <div class="text">
+                    <div class="title">【三餸一湯】是日菜單  雜菌烘蛋 ...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61262957/三餸一湯菜脯蒜香蒸蝦-Steamed-Shrimp-with-Garlic-and-Preserved-Vegetables">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007619_a730.jpg" alt="【三餸一湯】菜脯蒜香蒸蝦 Steamed Shrimp with Garlic and Preserved Vegetables"></div>
+                    <div class="text">
+                    <div class="title">【三餸一湯】菜脯蒜香蒸蝦 Stea...</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/冷知識"><h4>冷知識</h4></a><span><a href="//etw.nextdigital.com.hk/channel/冷知識">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61190136/黃瓜青瓜都一樣點解內地人叫黃瓜廣東人嫌大吉利是改名叫青瓜">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200728/large/1595922640_8d14.jpg" alt="【黃瓜青瓜都一樣】點解內地人叫黃瓜？廣東人嫌大吉利是改名叫青瓜"></div>
+                    <div class="text">
+                    <div class="title">【黃瓜青瓜都一樣】點解內地人叫黃瓜？廣東人嫌大吉利是改名叫青瓜</div>
+                    <div class="info">
+                        <div class="date">2020-08-24</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61226814/解救茄子變黑茄子切開後易氧化變黑-切圓形細片-浸水防變黑">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200805/large/1596603380_9888.jpg" alt="【解救茄子變黑】茄子切開後易氧化變黑 切圓形細片 浸水防變黑"></div>
+                    <div class="text">
+                    <div class="title">【解救茄子變黑】茄子切開後易氧化變...</div>
+                    <div class="info">
+                        <div class="date">2020-08-23</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61190049/沖繩苦瓜勁沖繩土壤含鈣-苦瓜營養價值特別高-爽脆多汁苦中帶甘">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200728/large/1595922507_9e0b.jpg" alt="【沖繩苦瓜勁】沖繩土壤含鈣 苦瓜營養價值特別高 爽脆多汁苦中帶甘"></div>
+                    <div class="text">
+                    <div class="title">【沖繩苦瓜勁】沖繩土壤含鈣 苦瓜營...</div>
+                    <div class="info">
+                        <div class="date">2020-08-22</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                <div class="news-section clearfix">
+            <div class="title"><a href="//etw.nextdigital.com.hk/channel/食在台灣"><h4>食在台灣</h4></a><span><a href="//etw.nextdigital.com.hk/channel/食在台灣">更多</a></span></div>
+            <div class="news-lists">
+                                                <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61263477/食在台灣2020台北台中米芝蓮必比登推介一覽75間入選-台中首次公布有21間上榜">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1597995474_9222.jpg" alt="【食在台灣】2020台北台中米芝蓮必比登推介一覽！75間入選 台中首次公布有21間上榜"></div>
+                    <div class="text">
+                    <div class="title">【食在台灣】2020台北台中米芝蓮必比登推介一覽！75間入選 ...</div>
+                    <div class="info">
+                        <div class="date">2020-08-21</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61245756/食在台灣30多歲半路出家-女廚法國習藝十多年回台-內湖開法式小酒館">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200805/large/1596602305_bfcc.jpg" alt="【食在台灣】30多歲半路出家 女廚法國習藝十多年回台 內湖開法式小酒館"></div>
+                    <div class="text">
+                    <div class="title">【食在台灣】30多歲半路出家 女廚...</div>
+                    <div class="info">
+                        <div class="date">2020-08-06</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                    <div class="news">   
+                <a href="//etw.nextdigital.com.hk/article/3_61245742/食在台灣日台夫妻聯手創業-嘉義民雄鐵道旁飯糰小店">
+                <div class="news-wrapper news-wrapper-clearfix">
+                    <div class="img">
+                                            <img src="/assets/images/play_icon.png" class="playicon" alt="play">
+                                            <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200805/large/1596601717_24a5.jpg" alt="【食在台灣】日台夫妻聯手創業 嘉義民雄鐵道旁飯糰小店"></div>
+                    <div class="text">
+                    <div class="title">【食在台灣】日台夫妻聯手創業 嘉義...</div>
+                    <div class="info">
+                        <div class="date">2020-08-05</div>
+                                            </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+                                </div>
+        </div><!--/section-->
+                </div>
+                <!--/col2-->
+    </div>
+</div>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "//etw.nextdigital.com.hk/",
+"name": "飮食男女"
+}
+}]
+}
+</script>
+<script>
+    $(document).ready(function() {
+        var OMOSDK = new OMO({
+            appId: "58ef4ec7172d940c00bc54b3",
+            language: 'zh',
+            region: cc,
+            authenticationServerUrl: 'https://auth.nextdigital.com.hk/'
+        });
+        var nxmObj = {"REGION":"HK","PROD":"ETW","SITE":"etw.nextdigital.com.hk","PLATFORM":"WEB","SECTION":"HOME","MEDIA":"","CONTENT":"HOME","ISSUEID":"","TITLE":"","CID":"","NEWS":"COMBINE","EDM":"","ACTION":"","SUBSECT":"","SUBSUBSECT":"","MENU":"\u4e3b\u9801","AUTH":"","SRC":"ETW","L":"TC","CH":"ETW","CAT":"FOOD","KY":"","REF":"","OMO_ACCID":"","OMO_PID":""};
+
+        var adisblk = getCookie('adisblk');
+        var currentUser = OMOSDK.auth().getUserInfo();
+
+        dataLayer.push({
+		  'c16': nxmObj.MENU || 'NIL',
+		  'c17': nxmObj.SECTION || 'NIL',
+		  'c18': nxmObj.MENU || 'NIL',
+		  'c19': 'NIL',
+		  'c20': nxmObj.CAT || 'NIL',
+		  'c21': 'HOME',
+          'c29': nxmObj.PLATFORM,
+          'c43': 'NIL',
+          'c45': (adisblk==='Y')?"ON":"OFF",
+          'c46': (currentUser.isLoggedIn)?"YES":"NO",
+		  
+          'c101': nxmTrack.readCookie('nxtu'),
+		});
+    });
+</script>
+			<!-- Content -->
+		</div>
+	</div><!-- /lt -->
+
+	<div class="rt">
+
+				<!-- LREC1 -->
+		<div id='div-LREC1' class="desktop" style="margin-top:10px;text-align:right;">
+			<script>googletag.cmd.push(function() { googletag.display('div-LREC1'); });</script>
+		</div>
+		<!-- LREC1 -->
+									<!-- 最新食店 -->
+<div class="desktop epick-lists  restaurant-new">
+            <div class="title">
+            <a href="//etw.nextdigital.com.hk/editorialpick/101/最新推介">新店評分</a>
+        </div>
+        <div class="epick-list"><!-- epick-list -->
+        
+    <div class="epick">
+        
+        <div class="rest-list">
+                                        <a href="//etw.nextdigital.com.hk/restaurant/49961/Smoke---Barrels-中環/1">
+                <div class="restaurant new">
+                    <div class="photo">
+                        <img src="https://nd-etw-webstatic.nxtdig.com.hk/images/default_102.png" class="ImageLazyLoad" actual="https://nd-etw-static.nxtdig.com.hk/restaurant/24d839ca42f59a075799da48fa58770d62e3243270b6d040a581ccea4501a02b_0_160x160.jpg" alt="Smoke & Barrels"/>
+                    </div>
+                    <div class="info">
+                        <div class="name">Smoke & Barrels</div>
+                        <div class="info2">
+                            <div class="ar-cuisine">
+                                中環 | 西班牙菜 | 美國菜 | 燒烤                            </div>
+                        <!-- <div class="ar-rating">推介指數 : <span class="editorialrating">3.3</span></div> -->
+                        </div>
+                    </div>
+                    <div class="ar-rating-widget">
+                        <div class="container">
+                                                            <div style="display: flex;">
+                                    <span class="mark">
+                                        3.3                                    </span>
+                                    <span style="flex: 1;"></span>
+                                    <span class="fullmark">/5</span>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+            </a>
+
+                                        <a href="//etw.nextdigital.com.hk/restaurant/49960/後生仔海南雞-旺角/1">
+                <div class="restaurant new">
+                    <div class="photo">
+                        <img src="https://nd-etw-webstatic.nxtdig.com.hk/images/default_102.png" class="ImageLazyLoad" actual="https://nd-etw-static.nxtdig.com.hk/restaurant/30300a75978e899e9000905c3efb3dba700a798af2e0b6434aae67e117a84137_0_160x160.jpg" alt="後生仔海南雞"/>
+                    </div>
+                    <div class="info">
+                        <div class="name">後生仔海南雞</div>
+                        <div class="info2">
+                            <div class="ar-cuisine">
+                                旺角 | 泰國菜                            </div>
+                        <!-- <div class="ar-rating">推介指數 : <span class="editorialrating">3.0</span></div> -->
+                        </div>
+                    </div>
+                    <div class="ar-rating-widget">
+                        <div class="container">
+                                                            <div style="display: flex;">
+                                    <span class="mark">
+                                        3.0                                    </span>
+                                    <span style="flex: 1;"></span>
+                                    <span class="fullmark">/5</span>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+            </a>
+
+                                        <a href="//etw.nextdigital.com.hk/restaurant/49963/Café-Crepe-尖沙咀/1">
+                <div class="restaurant new">
+                    <div class="photo">
+                        <img src="https://nd-etw-webstatic.nxtdig.com.hk/images/default_102.png" class="ImageLazyLoad" actual="https://nd-etw-static.nxtdig.com.hk/restaurant/7d8385b8bab89d90f6d74f10e6d37b0018b6525c3abe0812ac76498f13ab6676_0_160x159.jpg" alt="Café Crepe"/>
+                    </div>
+                    <div class="info">
+                        <div class="name">Café Crepe</div>
+                        <div class="info2">
+                            <div class="ar-cuisine">
+                                尖沙咀 | 法國菜 | 甜品                            </div>
+                        <!-- <div class="ar-rating">推介指數 : <span class="editorialrating">3.0</span></div> -->
+                        </div>
+                    </div>
+                    <div class="ar-rating-widget">
+                        <div class="container">
+                                                            <div style="display: flex;">
+                                    <span class="mark">
+                                        3.0                                    </span>
+                                    <span style="flex: 1;"></span>
+                                    <span class="fullmark">/5</span>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+            </a>
+
+                    </div>
+        
+    </div>
+    
+    	<a href="//etw.nextdigital.com.hk/editorialpick/101/最新推介"><div class="more desktop">更多&nbsp;&nbsp;新店評分</div></a>
+    </div><!-- epick-list -->
+</div>
+
+<!-- 三餸一湯 -->
+    <div class="desktop article-3d1s-lists">
+        <div class="title-3d1s">
+            <a href="https://hk.feature.appledaily.com/recipe/" style="flex:1"><img src="https://nd-etw-webstatic.nxtdig.com.hk/images/logo_3d1s.png" alt="3D1S logo"></a>
+            <div class="date">24-08-2020 星期一</div>
+        </div>
+        <div class="article-3d1s-list">
+                    <a class="article-3d1s" href="https://hk.feature.appledaily.com/recipe/3d1s/3_61262945/【三餸一湯】是日菜單 <br> 雜菌烘蛋 <br> 荔枝糖醋豬柳 <br> 菜脯蒜香蒸蝦 <br> 綠豆章魚蓮藕湯">
+                <div class="photo">
+                    <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007383_8f56.jpg" class="ImageLazyLoad" alt="【三餸一湯】是日菜單 <br> 雜菌烘蛋 <br> 荔枝糖醋豬柳 <br> 菜脯蒜香蒸蝦 <br> 綠豆章魚蓮藕湯"/>
+                </div>
+                <div class="info">
+                    <div class="name"> 【三餸一湯】是日菜單  雜菌烘蛋  荔枝糖醋豬柳  菜脯蒜香蒸蝦  綠豆章魚蓮藕湯</div>
+                </div>
+            </a>
+                    <a class="article-3d1s" href="https://hk.feature.appledaily.com/recipe/3d1s/3_61262951/【三餸一湯】雜菌烘蛋 Deep fried Egg with Mixed Mushrooms">
+                <div class="photo">
+                    <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007744_280e.jpg" class="ImageLazyLoad" alt="【三餸一湯】雜菌烘蛋 Deep fried Egg with Mixed Mushrooms"/>
+                </div>
+                <div class="info">
+                    <div class="name"> 【三餸一湯】雜菌烘蛋 Deep fried Egg with Mixed Mushrooms</div>
+                </div>
+            </a>
+                    <a class="article-3d1s" href="https://hk.feature.appledaily.com/recipe/3d1s/3_61262954/【三餸一湯】荔枝糖醋豬柳 Deep fried Pork Tenderloin and Litchi with Sweet and Sour Sauce">
+                <div class="photo">
+                    <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007683_eafb.jpg" class="ImageLazyLoad" alt="【三餸一湯】荔枝糖醋豬柳 Deep fried Pork Tenderloin and Litchi with Sweet and Sour Sauce"/>
+                </div>
+                <div class="info">
+                    <div class="name"> 【三餸一湯】荔枝糖醋豬柳 Deep fried Pork Tenderloin and Litchi with Sweet and Sour Sauce</div>
+                </div>
+            </a>
+                    <a class="article-3d1s" href="https://hk.feature.appledaily.com/recipe/3d1s/3_61262957/【三餸一湯】菜脯蒜香蒸蝦 Steamed Shrimp with Garlic and Preserved Vegetables">
+                <div class="photo">
+                    <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007619_a730.jpg" class="ImageLazyLoad" alt="【三餸一湯】菜脯蒜香蒸蝦 Steamed Shrimp with Garlic and Preserved Vegetables"/>
+                </div>
+                <div class="info">
+                    <div class="name"> 【三餸一湯】菜脯蒜香蒸蝦 Steamed Shrimp with Garlic and Preserved Vegetables</div>
+                </div>
+            </a>
+                    <a class="article-3d1s" href="https://hk.feature.appledaily.com/recipe/3d1s/3_61262960/【三餸一湯】綠豆章魚蓮藕湯 Mung Bean, Dried Squid and Lotus Root Soup">
+                <div class="photo">
+                    <img src="https://etw-image.nextdigital.com.hk/images/e-paper/20200821/large/1598007555_069d.jpg" class="ImageLazyLoad" alt="【三餸一湯】綠豆章魚蓮藕湯 Mung Bean, Dried Squid and Lotus Root Soup"/>
+                </div>
+                <div class="info">
+                    <div class="name"> 【三餸一湯】綠豆章魚蓮藕湯 Mung Bean, Dried Squid and Lotus Root Soup</div>
+                </div>
+            </a>
+                </div>
+        <a href="https://hk.feature.appledaily.com/recipe/"><div class="more desktop">更多</div></a>
+    </div>
+
+
+<!-- 懶人包 -->
+<div class="desktop epick-lists">
+	
+        <div class="title">
+        <a href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介">懶人包</a>
+    </div>
+
+        <div class="epick-list"><!-- epick-list -->
+                <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/9eee4072ec3cf306eadc2c61742f21b8074fd7d8feb539b4a535e7e0cf3786f0_0_240x240.jpg" alt="下午茶外賣推介"/>
+        下午茶外賣推介</a>
+        <span class="number">(7 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/9eee4072ec3cf306eadc2c61742f21b8074fd7d8feb539b4a535e7e0cf3786f0_0_240x240.jpg"  alt="下午茶外賣推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/9eee4072ec3cf306eadc2c61742f21b8074fd7d8feb539b4a535e7e0cf3786f0_0_240x240.jpg" alt="下午茶外賣推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">下午茶外賣推介</div>
+                        <div class="info2">
+                            <div class="district">7 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/373/美味便當必食推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/f46036bc0c9415bd2bdc5ee6b1d583aab9f4ab5aef1590d100315b8c8ca4e67a_0_240x240.jpg" alt="美味便當必食推介"/>
+        美味便當必食推介</a>
+        <span class="number">(8 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/373/美味便當必食推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/f46036bc0c9415bd2bdc5ee6b1d583aab9f4ab5aef1590d100315b8c8ca4e67a_0_240x240.jpg"  alt="美味便當必食推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/f46036bc0c9415bd2bdc5ee6b1d583aab9f4ab5aef1590d100315b8c8ca4e67a_0_240x240.jpg" alt="美味便當必食推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">美味便當必食推介</div>
+                        <div class="info2">
+                            <div class="district">8 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/372/氣炸食品人氣店">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/1156bec385fdda37a614f340ba35a7e2438d21dbd8d777d55b48979eff83810c_0_240x240.jpg" alt="氣炸食品人氣店"/>
+        氣炸食品人氣店</a>
+        <span class="number">(7 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/372/氣炸食品人氣店">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/1156bec385fdda37a614f340ba35a7e2438d21dbd8d777d55b48979eff83810c_0_240x240.jpg"  alt="氣炸食品人氣店" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/1156bec385fdda37a614f340ba35a7e2438d21dbd8d777d55b48979eff83810c_0_240x240.jpg" alt="氣炸食品人氣店"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">氣炸食品人氣店</div>
+                        <div class="info2">
+                            <div class="district">7 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/371/透心涼甜品專門店推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/7564142917a443911cad8cba12de6abfabde7ee52987a1520423146b0005bd71_0_240x240.jpg" alt="透心涼甜品專門店推介"/>
+        透心涼甜品專門店推介</a>
+        <span class="number">(8 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/371/透心涼甜品專門店推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/7564142917a443911cad8cba12de6abfabde7ee52987a1520423146b0005bd71_0_240x240.jpg"  alt="透心涼甜品專門店推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/7564142917a443911cad8cba12de6abfabde7ee52987a1520423146b0005bd71_0_240x240.jpg" alt="透心涼甜品專門店推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">透心涼甜品專門店推介</div>
+                        <div class="info2">
+                            <div class="district">8 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/370/越式三文治推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/3e3a71e2ace513e6f7b284376ec03a18ab4be27e5719d49e305a70c1f37d6664_0_240x240.jpg" alt="越式三文治推介"/>
+        越式三文治推介</a>
+        <span class="number">(5 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/370/越式三文治推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/3e3a71e2ace513e6f7b284376ec03a18ab4be27e5719d49e305a70c1f37d6664_0_240x240.jpg"  alt="越式三文治推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/3e3a71e2ace513e6f7b284376ec03a18ab4be27e5719d49e305a70c1f37d6664_0_240x240.jpg" alt="越式三文治推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">越式三文治推介</div>
+                        <div class="info2">
+                            <div class="district">5 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/369/足料端午糭小店推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/9f3ebbc12557e724e9943a5ad0159253e813dccf89e280ec9d65e92e818f7cd2_0_240x240.jpg" alt="足料端午糭小店推介"/>
+        足料端午糭小店推介</a>
+        <span class="number">(6 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/369/足料端午糭小店推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/9f3ebbc12557e724e9943a5ad0159253e813dccf89e280ec9d65e92e818f7cd2_0_240x240.jpg"  alt="足料端午糭小店推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/9f3ebbc12557e724e9943a5ad0159253e813dccf89e280ec9d65e92e818f7cd2_0_240x240.jpg" alt="足料端午糭小店推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">足料端午糭小店推介</div>
+                        <div class="info2">
+                            <div class="district">6 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/368/港九新界人氣古早味蛋糕推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/ccb275fd96329947e11fc6efad1255cada3360610e82a24d8fefb7de71187b50_0_240x240.jpg" alt="港九新界人氣古早味蛋糕推介"/>
+        港九新界人氣古早味蛋糕推介</a>
+        <span class="number">(6 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/368/港九新界人氣古早味蛋糕推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/ccb275fd96329947e11fc6efad1255cada3360610e82a24d8fefb7de71187b50_0_240x240.jpg"  alt="港九新界人氣古早味蛋糕推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/ccb275fd96329947e11fc6efad1255cada3360610e82a24d8fefb7de71187b50_0_240x240.jpg" alt="港九新界人氣古早味蛋糕推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">港九新界人氣古早味蛋糕推介</div>
+                        <div class="info2">
+                            <div class="district">6 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+            <div class="epick">
+       <!-- <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/367/港九新界新鮮肉檔推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/a1f6692c3e45233f84689c9d5f80f9bfac9c8bd8778a90e52d79a9b37828bd47_0_240x240.jpg" alt="港九新界新鮮肉檔推介"/>
+        港九新界新鮮肉檔推介</a>
+        <span class="number">(8 間食店)</span></div>-->
+        <div class="rest-list">
+            
+                <a href="//etw.nextdigital.com.hk/editorialpick/367/港九新界新鮮肉檔推介">
+                <div class="restaurant clearfix">
+                    <div class="photo">
+                        <img src="https://nd-etw-static.nxtdig.com.hk/editorial/a1f6692c3e45233f84689c9d5f80f9bfac9c8bd8778a90e52d79a9b37828bd47_0_240x240.jpg"  alt="港九新界新鮮肉檔推介" />
+                       <!-- <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/a1f6692c3e45233f84689c9d5f80f9bfac9c8bd8778a90e52d79a9b37828bd47_0_240x240.jpg" alt="港九新界新鮮肉檔推介"/>-->
+                    </div>
+                    <div class="info">
+                        <div class="name">港九新界新鮮肉檔推介</div>
+                        <div class="info2">
+                            <div class="district">8 間食店</div>
+                            
+                        </div>
+                    </div>
+                </div></a>
+            
+            
+        </div>
+                
+    </div>
+        
+    </div><!-- epick-list -->
+    <a href="//etw.nextdigital.com.hk/editorialpick"><div class="more desktop">更多&nbsp;&nbsp;懶人包</div></a>
+    <a href="//etw.nextdigital.com.hk/editorialpick"><div class="more mobile">更多</div></a>
+
+</div>
+
+<!-- 懶人包 -->
+<div class="mobile epick-lists">
+    
+        <div class="title">
+        <a style="color:#5d3e39" href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介">
+            懶人包
+            </a>
+        </div>
+
+        <div class="epick-list"><!-- epick-list -->
+                <div class="epick">
+        <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/9eee4072ec3cf306eadc2c61742f21b8074fd7d8feb539b4a535e7e0cf3786f0_0_240x240.jpg" alt="下午茶外賣推介"/>
+        下午茶外賣推介</a>
+        <span class="number">(7 間食店)</span></div>
+        <div class="rest-list">
+                    </div>
+                        <a href="//etw.nextdigital.com.hk/editorialpick/374/下午茶外賣推介"><div class="more">更多 下午茶外賣推介</div></a>
+            </div>
+            <div class="epick">
+        <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/373/美味便當必食推介">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/f46036bc0c9415bd2bdc5ee6b1d583aab9f4ab5aef1590d100315b8c8ca4e67a_0_240x240.jpg" alt="美味便當必食推介"/>
+        美味便當必食推介</a>
+        <span class="number">(8 間食店)</span></div>
+        <div class="rest-list">
+                    </div>
+                        <a href="//etw.nextdigital.com.hk/editorialpick/373/美味便當必食推介"><div class="more">更多 美味便當必食推介</div></a>
+            </div>
+            <div class="epick">
+        <div class="name">
+        <a href="//etw.nextdigital.com.hk/editorialpick/372/氣炸食品人氣店">
+        <img class="mobile" src="https://nd-etw-static.nxtdig.com.hk/editorial/1156bec385fdda37a614f340ba35a7e2438d21dbd8d777d55b48979eff83810c_0_240x240.jpg" alt="氣炸食品人氣店"/>
+        氣炸食品人氣店</a>
+        <span class="number">(7 間食店)</span></div>
+        <div class="rest-list">
+                    </div>
+                        <a href="//etw.nextdigital.com.hk/editorialpick/372/氣炸食品人氣店"><div class="more">更多 氣炸食品人氣店</div></a>
+            </div>
+        
+    </div><!-- epick-list -->
+    <a href="//etw.nextdigital.com.hk/editorialpick"><div class="more desktop">更多懶人包</div></a>
+    <a href="//etw.nextdigital.com.hk/editorialpick"><div class="more mobile">更多</div></a>
+
+</div>
+		
+					<!-- 最新食评 -->
+<div class="desktop comment-lists">
+<!--<h4 class="commont-item-title">最新食評</h4>-->
+<div class="title">
+            <a href="#">最新食評</a>
+</div>
+    <div class="commont-item">
+		<div class="item-content">
+		<div class="img-box" onclick='jumpprofile("5aedcde24bcd290012930f40","https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/aae012aa-a84c-4300-98ca-b12ac3027c3e_1586235613728_250x250.jpg","13men")'>
+            			<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/aae012aa-a84c-4300-98ca-b12ac3027c3e_1586235613728_250x250.jpg" alt="comment"/>
+            		</div>
+		<a href="//etw.nextdigital.com.hk/restaurant/34506/MooFish-愉景灣#comments">
+		<div class="item-right">
+						<p class="name">13men<span style="float:right;">今天 13:38</span></p>
+
+			<p class="comment">讚
+1.環境好舒服，開揚，對正教堂，無遠仲望到海景，好舒服 
+2.青口好味，肉厚，大隻，醬汁香，好惹味，多士都焗得好，重蒜茸香，配啤酒，一流 
+
+彈
+1.薄餅實在唔得，批底硬，芝士唔香，茄醬太甜，一個三色薄餅搞到咁，做乜呀</p>
+																								<p class="star">
+			<i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-half"></i><i class="icon-star-blank"></i>
+			</p>
+																					<p class="img">
+			        	        							<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/31a89efa-006f-49a6-8ead-b9615706d808_1598247511762_320x320.jpg" alt="image"/>
+				        	        	        	        							<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/cca86bd2-48a5-483b-be0c-f36bb469512e_1598247512659_320x320.jpg" alt="image"/>
+				        	        	        	        							<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/4e4b8ed7-4248-4bba-8616-c10fc27b9afc_1598247512640_320x320.jpg" alt="image"/>
+				        	        				</p>
+						<p class="address"><i class="icon-address"></i>MooFish | 愉景灣</p>
+		</div>
+	</a>
+	</div>
+</div>
+    <div class="commont-item">
+		<div class="item-content">
+		<div class="img-box" onclick='jumpprofile("5aedcde24bcd290012930f40","https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/aae012aa-a84c-4300-98ca-b12ac3027c3e_1586235613728_250x250.jpg","13men")'>
+            			<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/aae012aa-a84c-4300-98ca-b12ac3027c3e_1586235613728_250x250.jpg" alt="comment"/>
+            		</div>
+		<a href="//etw.nextdigital.com.hk/restaurant/49960/後生仔海南雞-旺角#comments">
+		<div class="item-right">
+						<p class="name">13men<span style="float:right;">今天 13:02</span></p>
+
+			<p class="comment">好多飯﹗
+
+讚 1.油飯既份量真係好足，一盒好似夠兩個人食咁 2.醬汁係開胃既，酸、辣都平衡得好 
+
+彈 1.飯既味係唔太足，唔夠油香；雞件份量多，但皮唔爽肉唔滑，似乎抵食同味道真係成反比呢</p>
+																								<p class="star">
+			<i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-half"></i><i class="icon-star-blank"></i>
+			</p>
+																					<p class="img">
+			        	        							<img src="https://ugc-static.omoplanet.com/ap-northeast-1%3A7092f6bb-4ce4-4b1a-9196-533274fcd85f/914cc8dd-61f5-495e-82b0-88960dd3d081_1598245350254_320x320.jpg" alt="image"/>
+				        	        				</p>
+						<p class="address"><i class="icon-address"></i>後生仔海南雞 | 旺角</p>
+		</div>
+	</a>
+	</div>
+</div>
+    <div class="commont-item">
+		<div class="item-content">
+		<div class="img-box" onclick='jumpprofile("5f3632fa5432b803efa2cbcf","https://static.omoplanet.com/logo/default_profile_pic_male.png","3shopaholic3")'>
+            			<img src="https://static.omoplanet.com/logo/default_profile_pic_male.png" alt="comment"/>
+            		</div>
+		<a href="//etw.nextdigital.com.hk/restaurant/24293/嘉龍星級飯堂-元朗#comments">
+		<div class="item-right">
+						<p class="name">3shopaholic3<span style="float:right;">2020-08-14</span></p>
+
+			<p class="comment">好難食！又污糟，食飽發現後巷有老鼠比貓大隻！冇下次！伙計冇禮貌</p>
+									<p class="star">
+			<i class="icon-star-full"></i><i class="icon-star-blank"></i><i class="icon-star-blank"></i><i class="icon-star-blank"></i><i class="icon-star-blank"></i>
+			</p>
+																																				<p class="address"><i class="icon-address"></i>嘉龍星級飯堂 | 元朗</p>
+		</div>
+	</a>
+	</div>
+</div>
+    </div>
+<script type="text/javascript">
+	function jumpprofile(omoUserId,pimage,pdisplayName){
+		if(omoUserId){
+			var OMOSDK = new OMO({
+	            appId: "58ef4ec7172d940c00bc54b3",
+				language: "zh_hk",
+				region: cc,
+            	authenticationServerUrl: 'https://auth.nextdigital.com.hk/'
+	        });
+			var currentUser = OMOSDK.auth().getUserInfo();
+			if(currentUser.isLoggedIn){
+				var omoToken = OMOSDK.auth().getAccessToken();
+				var link = encodeURI('//etw.nextdigital.com.hk/MyProfile/index/'+omoToken+'/'+omoUserId+'/'+encodeURIComponent(pimage)+'/'+encodeURIComponent(pdisplayName));
+				window.location.href = appendFromSource(link);
+			}
+		}
+	}
+</script>
+		
+
+            <!-- App下載 -->
+<!-- <div class="appdownload desktop">
+    <div class="appdownload-wrapper">
+        <a href="<?//php echo config_item('app_download_ios');?>" target="_blank" class="dl-ios">&nbsp;</a>
+        <a href="<?//php echo config_item('app_download_android');?>" target="_blank" class="dl-android">&nbsp;</a>
+    </div>
+</div> -->            <!-- fb -->
+<div class="fb-widget desktop">
+    <div class="fb-widget-wrapper">
+        <div class="fb-page" data-href="https://www.facebook.com/eatandtravel/?fref=ts" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/eatandtravel/?fref=ts" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/eatandtravel/?fref=ts"></a></blockquote></div>
+    </div>
+</div>
+
+
+
+	</div><!-- /rt -->
+	
+
+	<div class="gototop">TOP</div>
+
+</div>
+<!--end for my profile-->
+
+<style>
+	.FCopyright {
+		background-image:url(https://staticlayout.appledaily.hk/web_images/layout/Copyright_bg.png);
+		background-repeat:no-repeat;
+	}
+
+	.FCopyright table  {
+	}
+
+	.FCopyright table tr td {
+		font-size:11px;
+		white-space:nowrap;
+		line-height:30px;
+		color:#7c929d;
+	}
+
+	.FCopyright table tr td a {
+		float:left;
+		display:block;
+		margin:0 10px 0 0;
+	}
+
+	@media only screen and (max-width: 640px){
+		.FCopyright table tr td a {
+			float:left;
+			display:block;
+			margin:0 5px 0 0;
+		}
+	}
+
+	.FCopyright table tr td a:link , .FCopyright table tr td a:visited {color:#69808c; text-decoration:none;}
+
+	.FCopyright table tr td a:hover , .FCopyright table tr td a:active {color:#333; text-decoration:none;}
+
+	.FCopyrightCenter {
+		text-align:center;
+		color: #7C929D;
+		font-size: 11px;
+		line-height: 30px;
+		white-space: nowrap;
+	}
+
+</style>
+<footer class="clearfix">
+	<div class = "footer-wrapper">
+		<div class="FCopyright">
+			<table>
+				<tr>
+					<td>
+						<a href="javascript:void(0)" style="cursor:auto;">壹傳媒:</a>
+						<a href="http://www.nextdigital.com.hk">香港</a>
+						<a href="http://www.twnextdigital.com">台灣</a>
+						<a href="javascript:void(0)" style="cursor:auto;">|</a>
+						<a href="http://www.nextdigital.com.hk/info/privacy.html">私隱聲明</a>
+						<a href="http://www.nextdigital.com.hk/info/tnc.html">服務條款</a>
+						<a href="https://campaign.nextdigital.com.hk/contact_us/index.html">刊登廣告</a>
+						<a href="http://www.nextdigital.com.hk/info/contactus.html">聯絡我們</a>
+						<a href="https://hk.appledaily.com/recruit">招聘</a>
+						<!-- <span class="footer-subscription-text">訂閱版:</span>
+						<a href="http://hk.etw.nextmedia.com/">飲食男女</a>| &nbsp;&nbsp;
+						<a href="http://hk.ketchup.nextmedia.com/">Ketchup</a>| &nbsp;&nbsp;
+						<a href="http://hk.next.nextmedia.com/">壹週刊</a> -->
+					</td>
+					<td align="right"></td>
+				</tr>
+			</table>
+		</div>
+		<div class="FCopyrightCenter">
+			&copy; 2020 AD Internet Limited. All rights reserved. 版權所有 不得轉載
+		</div>
+	</div>
+</footer>
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push(
+        { c1: "2", c2: "8028476" }
+    );
+    (function()
+    { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
+        )();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=8028476&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script src="https://nd-etw-webstatic.nxtdig.com.hk/js/idangerous/swiper.min.js?20190130"></script>
+<script src="https://nd-etw-webstatic.nxtdig.com.hk/js/custom.js?20190130" type="text/javascript"></script>
+
+<!-- Skyscraper -->
+<script type="text/javascript">
+	var $window = $(window);
+   	var doorLeft = $('#div-Skyscraper1');
+    var doorRight = $('#div-Skyscraper2');
+    var documentHeight = $(document).height();
+    var topDefaultMargin = 138;
+    $(window).scroll(function() {
+    	var scrollTop = $window.scrollTop();
+    	//var leftTopPos = doorLeft.offset().top;
+    	//var rightTopPos = doorRight.offset().top;
+
+		if(scrollTop > topDefaultMargin) {
+    		var topValue = scrollTop - topDefaultMargin + 106;
+    		if(typeof doorLeft !== "undefined") doorLeft.css('top', topValue+'px');
+    		if(typeof doorRight !== "undefined") doorRight.css('top', topValue+'px');
+    	} else{
+    		if(typeof doorLeft !== "undefined") doorLeft.css('top', '0');
+    		if(typeof doorRight !== "undefined") doorRight.css('top', '0');
+    	}
+   	}).trigger('scroll');
+</script>
+<!--restaruant lazyloading-->
+<script>
+$(function(){
+	$('.ImageLazyLoad').each(function(){
+		if ($(this).attr('actual') != ''){
+			$(this).attr('src', $(this).attr('actual'));
+		}
+	});
+
+	$('.ImageLazyLoadBackground').each(function(){
+		if ($(this).attr('actual') != ''){
+            $('.ImageLazyLoadBackground').css('display', 'block');
+            $('.ImageLazyLoadBackground.no-big-image').css('display', 'none');
+            var cssAttribute = "url(" + $(this).attr('actual') + ")";
+            $(this).css('background-image' , cssAttribute);
+		} else{
+            $('.ImageLazyLoadBackground').css('display', 'none');
+            $('.ImageLazyLoadBackground.no-big-image').css('display', 'block');
+        }
+	});
+
+})	
+</script>
+
+<!-- GTM -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK4VZFW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="div-inRead" class="mobile">
+<script>
+    displayAdsAfterCheckBlocking('div-inRead');
+</script>
+</div>
+</body>
+</html>
